@@ -1,0 +1,1001 @@
+transaction_id,customer_id,merchant_name,merchant_category,transaction_amount,payment_method,transaction_date,city,device_type,transaction_status
+T00001,C0141,Swiggy,Food,425.41,UPI,2024-02-27,Mumbai,Mobile,Failed
+T00002,C0217,Electricity Board,Utilities,1103.4,UPI,2024-01-08,Bangalore,Mobile,Success
+T00003,C0288,Amazon,Shopping,185.7,UPI,2024-06-15,Pune,Web,Success
+T00004,C0143,Ajio,Shopping,97.87,UPI,2024-02-10,Pune,Web,Success
+T00005,C0080,IRCTC,Travel,785.27,UPI,2024-03-27,Bangalore,Mobile,Success
+T00006,C0184,BookMyShow,Entertainment,66.64,Card,2024-06-03,Delhi,Mobile,Failed
+T00007,C0064,Spotify,Entertainment,1479.14,Card,2024-01-21,Chennai,Web,Success
+T00008,C0296,Gas Agency,Utilities,210.54,UPI,2024-06-29,Bangalore,Mobile,Success
+T00009,C0041,Myntra,Shopping,340.2,UPI,2024-01-26,Hyderabad,Web,Success
+T00010,C0187,Spotify,Entertainment,502.43,UPI,2024-04-04,Delhi,Mobile,Success
+T00011,C0088,Uber,Travel,807.1,Wallet,2024-03-03,Mumbai,Web,Success
+T00012,C0286,Netflix,Entertainment,326.41,UPI,2024-06-24,Delhi,Mobile,Success
+T00013,C0162,Amazon,Shopping,537.15,Card,2024-03-09,Bangalore,Mobile,Success
+T00014,C0162,Water Supply,Utilities,228.19,UPI,2024-06-16,Hyderabad,Web,Success
+T00015,C0136,BookMyShow,Entertainment,768.0,UPI,2024-03-04,Pune,Web,Success
+T00016,C0299,Gas Agency,Utilities,798.27,Card,2024-04-02,Mumbai,Mobile,Success
+T00017,C0047,Gas Agency,Utilities,103.81,UPI,2024-01-29,Mumbai,Mobile,Failed
+T00018,C0033,Spotify,Entertainment,2746.5,Card,2024-04-07,Chennai,Web,Success
+T00019,C0284,Gas Agency,Utilities,340.63,UPI,2024-06-23,Pune,Mobile,Success
+T00020,C0175,Gas Agency,Utilities,972.2,UPI,2024-03-16,Hyderabad,Mobile,Success
+T00021,C0135,BookMyShow,Entertainment,154.12,Wallet,2024-02-15,Chennai,Mobile,Success
+T00022,C0079,Ola,Travel,77.99,Card,2024-02-11,Chennai,Mobile,Success
+T00023,C0251,Gas Agency,Utilities,289.57,UPI,2024-01-29,Delhi,Web,Success
+T00024,C0124,Amazon,Shopping,348.84,Wallet,2024-01-21,Bangalore,Web,Success
+T00025,C0066,Zomato,Food,682.98,Wallet,2024-05-01,Chennai,Mobile,Success
+T00026,C0109,MakeMyTrip,Travel,2844.25,Wallet,2024-06-25,Mumbai,Web,Success
+T00027,C0192,Spotify,Entertainment,2294.08,Card,2024-05-12,Hyderabad,Mobile,Success
+T00028,C0033,Flipkart,Shopping,778.84,Card,2024-01-06,Chennai,Mobile,Success
+T00029,C0004,Electricity Board,Utilities,124.12,UPI,2024-06-10,Bangalore,Mobile,Success
+T00030,C0170,Swiggy,Food,87.03,UPI,2024-05-11,Mumbai,Web,Success
+T00031,C0277,BookMyShow,Entertainment,443.7,UPI,2024-05-26,Chennai,Web,Success
+T00032,C0209,Ajio,Shopping,1461.65,UPI,2024-01-25,Bangalore,Web,Success
+T00033,C0211,MakeMyTrip,Travel,313.84,Card,2024-01-14,Pune,Mobile,Success
+T00034,C0174,McDonalds,Food,171.52,UPI,2024-03-04,Mumbai,Mobile,Success
+T00035,C0072,Gas Agency,Utilities,111.98,Card,2024-02-16,Delhi,Web,Failed
+T00036,C0227,Amazon,Shopping,1233.59,Wallet,2024-01-26,Bangalore,Mobile,Success
+T00037,C0086,Zomato,Food,54.43,Card,2024-05-04,Hyderabad,Mobile,Success
+T00038,C0085,BookMyShow,Entertainment,1031.68,Card,2024-01-01,Hyderabad,Web,Success
+T00039,C0217,Netflix,Entertainment,1230.17,Wallet,2024-05-22,Pune,Web,Success
+T00040,C0152,Flipkart,Shopping,405.11,UPI,2024-01-15,Chennai,Mobile,Success
+T00041,C0026,Uber,Travel,1640.82,Wallet,2024-05-02,Chennai,Mobile,Success
+T00042,C0096,Swiggy,Food,371.46,UPI,2024-06-01,Bangalore,Mobile,Success
+T00043,C0292,BookMyShow,Entertainment,347.99,UPI,2024-05-28,Chennai,Mobile,Success
+T00044,C0215,Electricity Board,Utilities,1096.3,Wallet,2024-05-29,Chennai,Web,Success
+T00045,C0161,Ola,Travel,1795.8,UPI,2024-03-08,Hyderabad,Mobile,Success
+T00046,C0162,MakeMyTrip,Travel,151.9,UPI,2024-01-03,Hyderabad,Mobile,Success
+T00047,C0260,Zomato,Food,1194.31,Card,2024-02-03,Delhi,Mobile,Success
+T00048,C0146,Myntra,Shopping,1229.11,UPI,2024-04-22,Chennai,Web,Success
+T00049,C0271,Water Supply,Utilities,641.74,UPI,2024-06-19,Chennai,Web,Success
+T00050,C0136,Zomato,Food,70.6,UPI,2024-01-28,Pune,Mobile,Success
+T00051,C0108,IRCTC,Travel,75.55,Wallet,2024-03-28,Mumbai,Web,Success
+T00052,C0129,Gas Agency,Utilities,351.92,UPI,2024-01-24,Pune,Web,Success
+T00053,C0002,Uber,Travel,1955.01,Card,2024-02-03,Pune,Web,Success
+T00054,C0283,Ajio,Shopping,472.63,Wallet,2024-04-19,Chennai,Mobile,Success
+T00055,C0077,Swiggy,Food,257.84,Wallet,2024-01-10,Delhi,Mobile,Success
+T00056,C0022,BookMyShow,Entertainment,323.71,Card,2024-04-03,Bangalore,Web,Success
+T00057,C0053,Flipkart,Shopping,2173.96,Card,2024-05-23,Hyderabad,Mobile,Success
+T00058,C0091,Flipkart,Shopping,852.8,Card,2024-01-07,Mumbai,Web,Success
+T00059,C0128,Spotify,Entertainment,1352.38,Card,2024-02-10,Pune,Mobile,Success
+T00060,C0241,BookMyShow,Entertainment,1834.65,UPI,2024-02-21,Hyderabad,Web,Success
+T00061,C0115,Ola,Travel,1367.88,UPI,2024-06-17,Mumbai,Web,Success
+T00062,C0036,IRCTC,Travel,356.18,Card,2024-03-30,Pune,Web,Success
+T00063,C0015,Gas Agency,Utilities,256.95,UPI,2024-03-07,Mumbai,Web,Success
+T00064,C0223,Swiggy,Food,1413.06,Card,2024-03-21,Hyderabad,Mobile,Success
+T00065,C0098,Spotify,Entertainment,55.58,Card,2024-01-12,Pune,Web,Success
+T00066,C0187,Zomato,Food,482.22,Card,2024-01-18,Pune,Web,Success
+T00067,C0064,Gas Agency,Utilities,152.14,Wallet,2024-03-17,Chennai,Web,Success
+T00068,C0207,Netflix,Entertainment,2340.5,Wallet,2024-03-16,Chennai,Mobile,Success
+T00069,C0195,Ajio,Shopping,635.16,Wallet,2024-02-14,Chennai,Web,Success
+T00070,C0001,Spotify,Entertainment,411.58,Card,2024-03-14,Mumbai,Web,Failed
+T00071,C0165,Water Supply,Utilities,2675.61,Card,2024-04-23,Hyderabad,Mobile,Success
+T00072,C0087,Gas Agency,Utilities,600.13,Wallet,2024-01-22,Delhi,Web,Success
+T00073,C0159,Zomato,Food,318.2,UPI,2024-02-20,Mumbai,Mobile,Success
+T00074,C0244,Zomato,Food,802.39,Wallet,2024-01-19,Hyderabad,Web,Success
+T00075,C0197,Electricity Board,Utilities,92.28,Card,2024-04-12,Mumbai,Mobile,Success
+T00076,C0218,Swiggy,Food,1961.09,UPI,2024-02-15,Pune,Web,Success
+T00077,C0063,Zomato,Food,175.22,Card,2024-02-04,Hyderabad,Web,Success
+T00078,C0259,Spotify,Entertainment,3445.23,Card,2024-05-20,Hyderabad,Mobile,Success
+T00079,C0133,Netflix,Entertainment,942.12,UPI,2024-06-12,Delhi,Web,Success
+T00080,C0226,Myntra,Shopping,267.07,UPI,2024-03-14,Mumbai,Web,Success
+T00081,C0277,IRCTC,Travel,416.82,UPI,2024-02-05,Mumbai,Mobile,Success
+T00082,C0079,Spotify,Entertainment,853.07,Wallet,2024-02-24,Bangalore,Web,Success
+T00083,C0278,Netflix,Entertainment,125.7,Card,2024-04-16,Bangalore,Mobile,Success
+T00084,C0300,Netflix,Entertainment,359.45,Wallet,2024-01-06,Chennai,Web,Success
+T00085,C0181,BookMyShow,Entertainment,83.3,Card,2024-04-09,Hyderabad,Mobile,Success
+T00086,C0140,BookMyShow,Entertainment,955.48,Card,2024-05-04,Bangalore,Web,Success
+T00087,C0085,MakeMyTrip,Travel,624.1,Card,2024-02-02,Chennai,Mobile,Success
+T00088,C0289,Spotify,Entertainment,878.9,Wallet,2024-01-07,Bangalore,Web,Success
+T00089,C0094,Ajio,Shopping,989.37,UPI,2024-03-07,Hyderabad,Web,Success
+T00090,C0168,Ajio,Shopping,2258.28,Card,2024-04-07,Delhi,Web,Success
+T00091,C0241,Uber,Travel,383.71,UPI,2024-05-18,Bangalore,Web,Success
+T00092,C0021,Amazon,Shopping,2118.95,UPI,2024-03-04,Mumbai,Mobile,Success
+T00093,C0123,Electricity Board,Utilities,288.66,UPI,2024-05-01,Pune,Mobile,Success
+T00094,C0239,Electricity Board,Utilities,1409.59,Wallet,2024-03-06,Delhi,Mobile,Success
+T00095,C0059,Water Supply,Utilities,653.42,UPI,2024-03-20,Bangalore,Mobile,Success
+T00096,C0204,MakeMyTrip,Travel,128.18,Wallet,2024-02-20,Bangalore,Mobile,Success
+T00097,C0062,Dominos,Food,1895.42,Wallet,2024-01-11,Delhi,Web,Success
+T00098,C0260,Uber,Travel,381.24,Wallet,2024-03-28,Bangalore,Web,Success
+T00099,C0222,BookMyShow,Entertainment,1085.57,Card,2024-06-11,Hyderabad,Mobile,Success
+T00100,C0268,BookMyShow,Entertainment,1794.91,Wallet,2024-03-10,Chennai,Web,Success
+T00101,C0138,Netflix,Entertainment,871.85,Card,2024-03-03,Bangalore,Web,Success
+T00102,C0238,BookMyShow,Entertainment,191.04,Wallet,2024-06-05,Pune,Web,Success
+T00103,C0254,Uber,Travel,796.0,Card,2024-02-16,Hyderabad,Mobile,Success
+T00104,C0175,IRCTC,Travel,135.6,Card,2024-06-01,Pune,Web,Success
+T00105,C0265,Electricity Board,Utilities,54.06,UPI,2024-01-22,Mumbai,Web,Success
+T00106,C0124,Spotify,Entertainment,686.56,Wallet,2024-05-01,Pune,Web,Success
+T00107,C0048,BookMyShow,Entertainment,894.35,Card,2024-02-26,Hyderabad,Mobile,Success
+T00108,C0243,IRCTC,Travel,1046.33,Wallet,2024-05-15,Delhi,Web,Success
+T00109,C0181,Gas Agency,Utilities,364.91,Wallet,2024-04-26,Delhi,Web,Success
+T00110,C0062,Ola,Travel,889.02,Wallet,2024-02-19,Delhi,Mobile,Success
+T00111,C0095,Water Supply,Utilities,907.45,UPI,2024-02-25,Pune,Web,Success
+T00112,C0052,IRCTC,Travel,128.69,UPI,2024-03-16,Mumbai,Web,Success
+T00113,C0008,Myntra,Shopping,296.53,Wallet,2024-05-16,Mumbai,Web,Success
+T00114,C0284,Swiggy,Food,2939.85,Card,2024-06-27,Mumbai,Web,Success
+T00115,C0294,Swiggy,Food,1830.84,Card,2024-04-30,Hyderabad,Web,Success
+T00116,C0027,Ola,Travel,1317.06,Card,2024-05-02,Bangalore,Mobile,Success
+T00117,C0038,Netflix,Entertainment,738.12,Wallet,2024-06-10,Pune,Mobile,Success
+T00118,C0289,Flipkart,Shopping,223.77,Card,2024-01-22,Mumbai,Mobile,Success
+T00119,C0116,Gas Agency,Utilities,313.66,Wallet,2024-04-07,Hyderabad,Web,Success
+T00120,C0157,MakeMyTrip,Travel,879.58,Wallet,2024-06-07,Bangalore,Mobile,Success
+T00121,C0136,Flipkart,Shopping,2306.87,Wallet,2024-01-21,Mumbai,Mobile,Failed
+T00122,C0081,Amazon,Shopping,2020.81,UPI,2024-04-14,Hyderabad,Web,Success
+T00123,C0119,Uber,Travel,62.46,Card,2024-06-29,Delhi,Web,Success
+T00124,C0136,Zomato,Food,497.15,Wallet,2024-05-30,Pune,Mobile,Failed
+T00125,C0279,BookMyShow,Entertainment,2700.99,UPI,2024-06-14,Mumbai,Web,Success
+T00126,C0031,Amazon,Shopping,329.02,UPI,2024-03-19,Chennai,Web,Success
+T00127,C0240,BookMyShow,Entertainment,1573.78,Wallet,2024-03-18,Pune,Web,Success
+T00128,C0225,MakeMyTrip,Travel,198.57,UPI,2024-06-02,Bangalore,Web,Success
+T00129,C0014,IRCTC,Travel,2251.03,UPI,2024-02-28,Pune,Mobile,Success
+T00130,C0090,Uber,Travel,725.29,Card,2024-05-12,Pune,Web,Success
+T00131,C0300,Ola,Travel,813.62,Card,2024-06-11,Hyderabad,Mobile,Failed
+T00132,C0210,Netflix,Entertainment,170.74,Card,2024-03-23,Pune,Mobile,Success
+T00133,C0211,Myntra,Shopping,1728.89,Wallet,2024-05-06,Delhi,Web,Success
+T00134,C0233,Electricity Board,Utilities,1005.26,UPI,2024-03-21,Delhi,Web,Success
+T00135,C0264,McDonalds,Food,406.39,UPI,2024-06-17,Chennai,Web,Success
+T00136,C0097,BookMyShow,Entertainment,1375.9,Wallet,2024-04-02,Chennai,Web,Success
+T00137,C0105,BookMyShow,Entertainment,1664.36,Card,2024-05-20,Mumbai,Web,Success
+T00138,C0249,Spotify,Entertainment,622.87,UPI,2024-01-08,Pune,Mobile,Success
+T00139,C0283,Myntra,Shopping,1330.76,UPI,2024-05-21,Hyderabad,Mobile,Success
+T00140,C0237,Amazon,Shopping,1018.44,UPI,2024-06-14,Mumbai,Web,Success
+T00141,C0213,IRCTC,Travel,1815.86,Card,2024-04-30,Mumbai,Web,Success
+T00142,C0197,Electricity Board,Utilities,426.75,UPI,2024-06-02,Chennai,Mobile,Success
+T00143,C0213,Dominos,Food,740.73,Card,2024-05-09,Delhi,Mobile,Success
+T00144,C0297,IRCTC,Travel,551.29,Wallet,2024-05-05,Mumbai,Web,Success
+T00145,C0177,Gas Agency,Utilities,320.1,Card,2024-05-21,Chennai,Web,Success
+T00146,C0097,Netflix,Entertainment,74.78,Wallet,2024-03-02,Chennai,Web,Success
+T00147,C0023,Ajio,Shopping,1433.48,Card,2024-05-01,Pune,Web,Success
+T00148,C0078,Spotify,Entertainment,158.71,Card,2024-01-10,Mumbai,Web,Success
+T00149,C0052,McDonalds,Food,1225.72,Wallet,2024-04-26,Bangalore,Mobile,Success
+T00150,C0080,Spotify,Entertainment,830.18,UPI,2024-04-30,Delhi,Web,Success
+T00151,C0204,Water Supply,Utilities,92.45,Wallet,2024-01-21,Delhi,Web,Success
+T00152,C0278,MakeMyTrip,Travel,672.33,UPI,2024-06-07,Bangalore,Mobile,Success
+T00153,C0047,Ola,Travel,1085.97,Card,2024-01-26,Pune,Mobile,Failed
+T00154,C0154,BookMyShow,Entertainment,631.03,UPI,2024-01-12,Delhi,Mobile,Success
+T00155,C0192,IRCTC,Travel,1318.52,Card,2024-02-07,Mumbai,Web,Success
+T00156,C0093,Water Supply,Utilities,512.39,UPI,2024-02-14,Bangalore,Web,Success
+T00157,C0124,Water Supply,Utilities,70.54,Card,2024-05-29,Mumbai,Mobile,Failed
+T00158,C0131,Spotify,Entertainment,1496.21,Card,2024-03-06,Pune,Mobile,Success
+T00159,C0280,Netflix,Entertainment,470.69,UPI,2024-01-19,Hyderabad,Web,Success
+T00160,C0218,Gas Agency,Utilities,186.1,Wallet,2024-03-05,Hyderabad,Web,Success
+T00161,C0248,Ajio,Shopping,687.43,UPI,2024-03-01,Hyderabad,Web,Success
+T00162,C0152,Gas Agency,Utilities,913.51,UPI,2024-06-17,Hyderabad,Web,Success
+T00163,C0255,Swiggy,Food,2528.48,Card,2024-02-28,Chennai,Web,Success
+T00164,C0129,Flipkart,Shopping,696.58,Wallet,2024-06-17,Pune,Mobile,Success
+T00165,C0159,Swiggy,Food,485.23,Card,2024-01-09,Chennai,Web,Success
+T00166,C0152,Amazon,Shopping,402.01,Card,2024-04-16,Mumbai,Mobile,Success
+T00167,C0272,Myntra,Shopping,61.6,Wallet,2024-03-10,Mumbai,Web,Success
+T00168,C0174,Netflix,Entertainment,87.68,UPI,2024-04-29,Bangalore,Mobile,Success
+T00169,C0286,Ajio,Shopping,1597.36,Card,2024-01-24,Hyderabad,Mobile,Success
+T00170,C0233,Uber,Travel,564.23,Card,2024-06-21,Pune,Web,Success
+T00171,C0191,Gas Agency,Utilities,591.21,UPI,2024-06-21,Mumbai,Web,Success
+T00172,C0114,Dominos,Food,202.16,Wallet,2024-01-17,Pune,Web,Success
+T00173,C0060,MakeMyTrip,Travel,456.67,UPI,2024-01-12,Bangalore,Web,Success
+T00174,C0050,BookMyShow,Entertainment,856.49,UPI,2024-05-17,Mumbai,Web,Success
+T00175,C0277,Netflix,Entertainment,425.51,Card,2024-05-30,Pune,Mobile,Success
+T00176,C0051,Spotify,Entertainment,609.55,Card,2024-06-06,Hyderabad,Web,Success
+T00177,C0112,Dominos,Food,909.98,Card,2024-04-23,Mumbai,Web,Success
+T00178,C0279,Dominos,Food,108.55,Wallet,2024-04-01,Bangalore,Web,Success
+T00179,C0063,Ola,Travel,71.5,Card,2024-01-24,Pune,Mobile,Success
+T00180,C0026,Electricity Board,Utilities,2303.8,Card,2024-03-03,Mumbai,Mobile,Success
+T00181,C0111,Zomato,Food,443.04,UPI,2024-03-25,Mumbai,Mobile,Success
+T00182,C0067,Ola,Travel,540.36,Wallet,2024-03-05,Mumbai,Mobile,Success
+T00183,C0008,Zomato,Food,2320.5,Card,2024-03-01,Chennai,Web,Success
+T00184,C0136,Zomato,Food,2649.27,UPI,2024-02-02,Pune,Web,Success
+T00185,C0033,Electricity Board,Utilities,224.32,Card,2024-04-24,Delhi,Mobile,Success
+T00186,C0114,Spotify,Entertainment,134.98,Wallet,2024-01-12,Pune,Web,Success
+T00187,C0016,Spotify,Entertainment,129.36,UPI,2024-05-02,Hyderabad,Web,Success
+T00188,C0228,McDonalds,Food,109.08,UPI,2024-01-21,Delhi,Mobile,Success
+T00189,C0141,Zomato,Food,1540.82,Wallet,2024-06-11,Chennai,Web,Success
+T00190,C0272,Spotify,Entertainment,1397.62,Card,2024-04-26,Chennai,Web,Success
+T00191,C0283,Swiggy,Food,150.6,Wallet,2024-02-25,Hyderabad,Web,Success
+T00192,C0174,Ajio,Shopping,843.12,Card,2024-04-12,Hyderabad,Mobile,Success
+T00193,C0161,MakeMyTrip,Travel,1112.63,Wallet,2024-03-06,Delhi,Mobile,Success
+T00194,C0047,BookMyShow,Entertainment,315.07,UPI,2024-01-24,Hyderabad,Mobile,Success
+T00195,C0285,Ola,Travel,1161.01,UPI,2024-05-30,Chennai,Web,Success
+T00196,C0182,McDonalds,Food,3775.6,Wallet,2024-04-18,Pune,Mobile,Success
+T00197,C0181,IRCTC,Travel,422.2,UPI,2024-05-27,Chennai,Mobile,Success
+T00198,C0115,Ajio,Shopping,383.39,UPI,2024-03-30,Chennai,Web,Success
+T00199,C0294,Dominos,Food,1613.87,UPI,2024-04-19,Chennai,Mobile,Success
+T00200,C0137,Water Supply,Utilities,1161.83,UPI,2024-02-16,Delhi,Web,Success
+T00201,C0004,IRCTC,Travel,137.07,UPI,2024-02-06,Chennai,Web,Success
+T00202,C0016,Zomato,Food,612.97,UPI,2024-05-15,Mumbai,Web,Success
+T00203,C0175,Netflix,Entertainment,358.59,UPI,2024-04-04,Delhi,Web,Success
+T00204,C0044,Water Supply,Utilities,444.39,UPI,2024-02-09,Mumbai,Mobile,Success
+T00205,C0227,Dominos,Food,1936.33,Wallet,2024-04-18,Hyderabad,Web,Success
+T00206,C0111,Netflix,Entertainment,357.72,Wallet,2024-01-30,Delhi,Web,Failed
+T00207,C0250,Dominos,Food,2456.36,Wallet,2024-06-19,Delhi,Mobile,Success
+T00208,C0029,Ajio,Shopping,849.38,UPI,2024-02-22,Delhi,Mobile,Success
+T00209,C0149,Myntra,Shopping,327.62,Card,2024-01-31,Bangalore,Web,Success
+T00210,C0067,BookMyShow,Entertainment,943.06,Card,2024-05-16,Pune,Mobile,Success
+T00211,C0182,Water Supply,Utilities,1304.56,UPI,2024-04-11,Pune,Mobile,Success
+T00212,C0236,BookMyShow,Entertainment,126.51,UPI,2024-03-21,Chennai,Web,Success
+T00213,C0214,Gas Agency,Utilities,97.43,Card,2024-01-30,Hyderabad,Mobile,Success
+T00214,C0236,Ola,Travel,516.04,Wallet,2024-04-02,Bangalore,Web,Success
+T00215,C0224,Zomato,Food,395.75,Wallet,2024-04-12,Chennai,Mobile,Success
+T00216,C0174,Netflix,Entertainment,173.45,UPI,2024-03-26,Mumbai,Mobile,Success
+T00217,C0059,Water Supply,Utilities,820.32,Wallet,2024-05-10,Mumbai,Web,Success
+T00218,C0121,Ola,Travel,120.28,UPI,2024-02-07,Delhi,Mobile,Success
+T00219,C0039,Flipkart,Shopping,110.44,UPI,2024-06-09,Hyderabad,Web,Success
+T00220,C0230,Water Supply,Utilities,1030.0,Wallet,2024-05-24,Pune,Web,Success
+T00221,C0226,Ola,Travel,120.92,UPI,2024-04-30,Hyderabad,Web,Failed
+T00222,C0181,Uber,Travel,425.07,Wallet,2024-01-19,Delhi,Web,Success
+T00223,C0030,BookMyShow,Entertainment,1390.46,Card,2024-03-14,Bangalore,Mobile,Failed
+T00224,C0260,Water Supply,Utilities,3465.02,Card,2024-04-28,Chennai,Mobile,Success
+T00225,C0097,Spotify,Entertainment,427.62,Card,2024-06-03,Hyderabad,Mobile,Success
+T00226,C0053,McDonalds,Food,1250.99,Card,2024-01-22,Chennai,Mobile,Success
+T00227,C0225,Zomato,Food,491.63,Card,2024-05-14,Chennai,Mobile,Success
+T00228,C0145,IRCTC,Travel,144.3,Card,2024-04-14,Delhi,Mobile,Success
+T00229,C0169,Uber,Travel,59.13,UPI,2024-05-22,Pune,Web,Success
+T00230,C0077,IRCTC,Travel,96.36,Card,2024-01-21,Chennai,Mobile,Success
+T00231,C0201,IRCTC,Travel,150.02,UPI,2024-06-01,Pune,Mobile,Success
+T00232,C0169,MakeMyTrip,Travel,1146.48,UPI,2024-06-20,Pune,Mobile,Success
+T00233,C0186,Spotify,Entertainment,2669.78,UPI,2024-04-02,Delhi,Mobile,Success
+T00234,C0249,Myntra,Shopping,319.18,UPI,2024-02-27,Mumbai,Mobile,Success
+T00235,C0052,Dominos,Food,252.47,Wallet,2024-05-18,Pune,Mobile,Failed
+T00236,C0193,Ola,Travel,59.78,UPI,2024-02-11,Mumbai,Mobile,Failed
+T00237,C0211,BookMyShow,Entertainment,85.3,Card,2024-06-22,Pune,Mobile,Success
+T00238,C0146,Spotify,Entertainment,650.11,Wallet,2024-04-24,Mumbai,Mobile,Failed
+T00239,C0100,MakeMyTrip,Travel,111.33,Card,2024-06-22,Chennai,Web,Success
+T00240,C0196,Netflix,Entertainment,2836.86,Wallet,2024-05-15,Hyderabad,Mobile,Success
+T00241,C0129,Flipkart,Shopping,844.1,UPI,2024-06-13,Hyderabad,Web,Success
+T00242,C0265,Electricity Board,Utilities,534.9,UPI,2024-03-13,Bangalore,Mobile,Success
+T00243,C0263,MakeMyTrip,Travel,752.26,UPI,2024-04-21,Bangalore,Mobile,Success
+T00244,C0014,Netflix,Entertainment,87.21,Card,2024-01-14,Hyderabad,Web,Success
+T00245,C0042,Ajio,Shopping,2453.2,Card,2024-02-27,Bangalore,Web,Success
+T00246,C0075,Dominos,Food,536.54,UPI,2024-01-10,Delhi,Web,Success
+T00247,C0230,Ajio,Shopping,309.9,Wallet,2024-01-02,Bangalore,Mobile,Success
+T00248,C0077,Ola,Travel,548.45,Wallet,2024-06-04,Chennai,Web,Success
+T00249,C0122,Dominos,Food,750.99,Card,2024-02-01,Bangalore,Mobile,Success
+T00250,C0235,Spotify,Entertainment,2981.97,UPI,2024-01-29,Hyderabad,Mobile,Failed
+T00251,C0124,Water Supply,Utilities,1008.29,Wallet,2024-02-06,Delhi,Web,Success
+T00252,C0124,Dominos,Food,346.3,Wallet,2024-04-16,Mumbai,Mobile,Success
+T00253,C0035,Gas Agency,Utilities,973.46,Wallet,2024-05-19,Chennai,Mobile,Success
+T00254,C0023,Netflix,Entertainment,1984.64,Wallet,2024-04-09,Delhi,Web,Success
+T00255,C0035,Dominos,Food,2443.39,Card,2024-03-02,Pune,Mobile,Success
+T00256,C0171,Water Supply,Utilities,810.32,UPI,2024-01-12,Delhi,Web,Success
+T00257,C0246,Ajio,Shopping,2209.21,Wallet,2024-02-16,Mumbai,Mobile,Success
+T00258,C0151,BookMyShow,Entertainment,87.02,UPI,2024-01-12,Mumbai,Mobile,Success
+T00259,C0264,IRCTC,Travel,427.88,Card,2024-05-19,Hyderabad,Web,Success
+T00260,C0147,Zomato,Food,3541.42,Card,2024-01-13,Pune,Web,Success
+T00261,C0189,Uber,Travel,771.38,Card,2024-04-12,Pune,Web,Success
+T00262,C0096,Netflix,Entertainment,2852.97,Card,2024-06-26,Hyderabad,Web,Success
+T00263,C0043,Gas Agency,Utilities,1507.75,Wallet,2024-04-18,Bangalore,Web,Success
+T00264,C0280,Electricity Board,Utilities,478.67,Card,2024-03-23,Bangalore,Mobile,Success
+T00265,C0157,IRCTC,Travel,96.42,Card,2024-06-03,Pune,Web,Success
+T00266,C0180,Ajio,Shopping,1390.89,Card,2024-01-11,Pune,Web,Failed
+T00267,C0141,Gas Agency,Utilities,4605.9,Wallet,2024-01-15,Bangalore,Web,Success
+T00268,C0016,Ola,Travel,1222.23,UPI,2024-06-04,Pune,Web,Failed
+T00269,C0035,Zomato,Food,1565.82,UPI,2024-06-14,Delhi,Web,Success
+T00270,C0017,Spotify,Entertainment,529.06,Wallet,2024-02-09,Pune,Web,Success
+T00271,C0228,IRCTC,Travel,2514.18,UPI,2024-05-26,Mumbai,Web,Success
+T00272,C0143,Netflix,Entertainment,257.68,UPI,2024-01-30,Bangalore,Mobile,Success
+T00273,C0199,Spotify,Entertainment,820.14,Wallet,2024-01-31,Delhi,Web,Success
+T00274,C0147,BookMyShow,Entertainment,146.43,Wallet,2024-05-05,Mumbai,Mobile,Success
+T00275,C0232,Amazon,Shopping,637.69,UPI,2024-04-23,Bangalore,Web,Success
+T00276,C0282,Uber,Travel,637.45,Wallet,2024-03-15,Delhi,Mobile,Success
+T00277,C0261,Myntra,Shopping,692.2,UPI,2024-02-01,Mumbai,Mobile,Success
+T00278,C0014,Ajio,Shopping,1724.21,Card,2024-05-21,Chennai,Web,Success
+T00279,C0067,Spotify,Entertainment,165.11,Wallet,2024-01-23,Bangalore,Web,Success
+T00280,C0246,Spotify,Entertainment,1175.65,Wallet,2024-04-15,Hyderabad,Mobile,Success
+T00281,C0038,Myntra,Shopping,1024.13,Card,2024-04-29,Pune,Web,Success
+T00282,C0067,Flipkart,Shopping,167.29,Card,2024-05-08,Bangalore,Mobile,Success
+T00283,C0156,Electricity Board,Utilities,395.35,UPI,2024-02-11,Delhi,Mobile,Success
+T00284,C0041,IRCTC,Travel,448.39,Card,2024-02-20,Pune,Web,Success
+T00285,C0274,Myntra,Shopping,1926.05,UPI,2024-05-08,Pune,Mobile,Success
+T00286,C0079,Water Supply,Utilities,627.22,UPI,2024-06-17,Chennai,Web,Success
+T00287,C0015,Electricity Board,Utilities,454.06,UPI,2024-01-12,Pune,Web,Success
+T00288,C0016,Ajio,Shopping,1636.51,Card,2024-06-09,Chennai,Web,Failed
+T00289,C0126,MakeMyTrip,Travel,177.27,Wallet,2024-04-13,Delhi,Web,Success
+T00290,C0081,Swiggy,Food,592.0,Card,2024-04-16,Hyderabad,Web,Success
+T00291,C0074,Myntra,Shopping,541.67,Card,2024-03-22,Pune,Web,Failed
+T00292,C0190,BookMyShow,Entertainment,592.79,Wallet,2024-05-23,Bangalore,Web,Success
+T00293,C0063,Ajio,Shopping,852.79,Card,2024-04-25,Mumbai,Mobile,Success
+T00294,C0149,Swiggy,Food,113.12,Card,2024-06-06,Hyderabad,Mobile,Success
+T00295,C0296,Myntra,Shopping,159.61,Wallet,2024-03-21,Mumbai,Mobile,Success
+T00296,C0240,Spotify,Entertainment,169.57,Card,2024-03-19,Hyderabad,Mobile,Success
+T00297,C0259,McDonalds,Food,210.6,Card,2024-03-02,Mumbai,Web,Success
+T00298,C0145,Swiggy,Food,1866.78,Card,2024-06-01,Pune,Web,Success
+T00299,C0056,Uber,Travel,931.03,Card,2024-02-04,Delhi,Web,Success
+T00300,C0024,Netflix,Entertainment,220.84,Card,2024-01-14,Chennai,Mobile,Success
+T00301,C0038,IRCTC,Travel,198.04,Card,2024-05-09,Hyderabad,Web,Success
+T00302,C0061,Water Supply,Utilities,205.85,UPI,2024-01-25,Hyderabad,Web,Success
+T00303,C0074,IRCTC,Travel,152.84,UPI,2024-06-03,Chennai,Web,Success
+T00304,C0024,Electricity Board,Utilities,234.87,UPI,2024-02-05,Pune,Web,Success
+T00305,C0234,Spotify,Entertainment,610.0,UPI,2024-06-04,Chennai,Mobile,Success
+T00306,C0084,IRCTC,Travel,82.08,Card,2024-06-06,Pune,Web,Success
+T00307,C0260,Gas Agency,Utilities,840.87,Wallet,2024-05-16,Hyderabad,Web,Success
+T00308,C0189,BookMyShow,Entertainment,1704.51,Card,2024-06-21,Bangalore,Web,Success
+T00309,C0014,Gas Agency,Utilities,100.42,Wallet,2024-05-01,Delhi,Mobile,Success
+T00310,C0088,McDonalds,Food,1362.75,Wallet,2024-06-10,Pune,Web,Success
+T00311,C0017,Flipkart,Shopping,213.18,Wallet,2024-06-28,Bangalore,Mobile,Success
+T00312,C0161,McDonalds,Food,420.23,Card,2024-02-08,Hyderabad,Mobile,Success
+T00313,C0242,Spotify,Entertainment,820.4,Wallet,2024-01-16,Pune,Mobile,Success
+T00314,C0288,Electricity Board,Utilities,546.71,Card,2024-06-18,Hyderabad,Web,Success
+T00315,C0236,Ola,Travel,79.9,Wallet,2024-03-28,Chennai,Web,Success
+T00316,C0099,MakeMyTrip,Travel,1049.59,UPI,2024-03-12,Chennai,Web,Success
+T00317,C0148,Myntra,Shopping,623.42,Wallet,2024-02-23,Pune,Web,Success
+T00318,C0179,MakeMyTrip,Travel,140.69,Wallet,2024-03-11,Delhi,Mobile,Success
+T00319,C0279,Water Supply,Utilities,658.49,Card,2024-04-11,Delhi,Mobile,Success
+T00320,C0148,Uber,Travel,300.94,Wallet,2024-01-21,Delhi,Web,Success
+T00321,C0110,MakeMyTrip,Travel,66.22,UPI,2024-05-17,Delhi,Web,Success
+T00322,C0123,Amazon,Shopping,240.05,UPI,2024-01-13,Pune,Mobile,Success
+T00323,C0052,Amazon,Shopping,152.05,Card,2024-03-25,Pune,Web,Success
+T00324,C0003,Zomato,Food,770.32,Wallet,2024-02-10,Hyderabad,Web,Success
+T00325,C0103,Spotify,Entertainment,1295.37,Card,2024-03-23,Delhi,Mobile,Success
+T00326,C0274,Zomato,Food,122.75,Wallet,2024-01-10,Mumbai,Web,Success
+T00327,C0204,Amazon,Shopping,757.14,Card,2024-02-17,Pune,Web,Success
+T00328,C0153,Swiggy,Food,502.03,Wallet,2024-06-03,Bangalore,Web,Success
+T00329,C0279,MakeMyTrip,Travel,317.01,Wallet,2024-05-06,Mumbai,Web,Success
+T00330,C0058,Ola,Travel,880.58,Card,2024-02-11,Pune,Web,Success
+T00331,C0008,Ola,Travel,402.17,Wallet,2024-03-27,Delhi,Mobile,Failed
+T00332,C0219,Ajio,Shopping,794.67,Wallet,2024-03-24,Bangalore,Web,Success
+T00333,C0072,Zomato,Food,135.87,Card,2024-03-23,Mumbai,Mobile,Success
+T00334,C0121,MakeMyTrip,Travel,275.85,Card,2024-03-09,Delhi,Web,Success
+T00335,C0294,Water Supply,Utilities,215.19,UPI,2024-03-07,Pune,Web,Success
+T00336,C0061,Amazon,Shopping,202.32,Card,2024-03-19,Mumbai,Web,Success
+T00337,C0160,Water Supply,Utilities,116.91,Wallet,2024-01-31,Pune,Web,Success
+T00338,C0113,Ola,Travel,472.64,UPI,2024-05-02,Mumbai,Web,Failed
+T00339,C0213,Gas Agency,Utilities,145.06,Wallet,2024-05-20,Hyderabad,Mobile,Success
+T00340,C0270,Amazon,Shopping,2841.25,Card,2024-05-15,Pune,Web,Success
+T00341,C0032,Swiggy,Food,1408.93,Wallet,2024-05-09,Mumbai,Mobile,Success
+T00342,C0267,Myntra,Shopping,199.92,Card,2024-01-30,Pune,Mobile,Success
+T00343,C0047,Gas Agency,Utilities,2170.31,Wallet,2024-04-24,Bangalore,Web,Success
+T00344,C0234,Ajio,Shopping,728.18,Wallet,2024-01-15,Chennai,Web,Success
+T00345,C0203,Uber,Travel,1223.98,Card,2024-01-01,Pune,Mobile,Success
+T00346,C0024,Electricity Board,Utilities,362.87,Card,2024-03-29,Pune,Mobile,Success
+T00347,C0036,Electricity Board,Utilities,616.79,Card,2024-01-09,Delhi,Web,Success
+T00348,C0216,Flipkart,Shopping,147.59,Card,2024-04-07,Hyderabad,Web,Success
+T00349,C0277,BookMyShow,Entertainment,322.45,UPI,2024-06-16,Delhi,Mobile,Success
+T00350,C0271,Ajio,Shopping,184.13,UPI,2024-02-27,Bangalore,Mobile,Success
+T00351,C0279,MakeMyTrip,Travel,658.44,Card,2024-05-16,Hyderabad,Mobile,Success
+T00352,C0178,Ajio,Shopping,378.31,UPI,2024-03-11,Mumbai,Mobile,Success
+T00353,C0009,McDonalds,Food,102.38,UPI,2024-02-22,Bangalore,Mobile,Failed
+T00354,C0229,Electricity Board,Utilities,361.3,Wallet,2024-06-21,Pune,Mobile,Success
+T00355,C0206,Amazon,Shopping,285.11,Card,2024-02-29,Chennai,Mobile,Success
+T00356,C0258,Zomato,Food,1192.45,Card,2024-02-29,Pune,Web,Success
+T00357,C0165,Water Supply,Utilities,560.29,UPI,2024-03-18,Mumbai,Mobile,Success
+T00358,C0141,Netflix,Entertainment,393.23,UPI,2024-05-22,Chennai,Mobile,Success
+T00359,C0254,Spotify,Entertainment,1470.49,UPI,2024-03-29,Pune,Web,Failed
+T00360,C0214,Gas Agency,Utilities,156.18,Card,2024-02-08,Delhi,Web,Success
+T00361,C0124,Ajio,Shopping,2278.9,UPI,2024-03-17,Pune,Mobile,Success
+T00362,C0288,BookMyShow,Entertainment,105.05,Card,2024-04-16,Chennai,Mobile,Success
+T00363,C0131,BookMyShow,Entertainment,733.54,UPI,2024-03-25,Pune,Mobile,Success
+T00364,C0048,Netflix,Entertainment,170.45,Wallet,2024-02-18,Bangalore,Web,Success
+T00365,C0021,Spotify,Entertainment,230.14,UPI,2024-02-18,Chennai,Mobile,Success
+T00366,C0171,BookMyShow,Entertainment,193.56,Card,2024-01-04,Mumbai,Mobile,Success
+T00367,C0125,McDonalds,Food,925.37,Wallet,2024-06-03,Pune,Mobile,Success
+T00368,C0283,BookMyShow,Entertainment,405.57,Card,2024-03-13,Hyderabad,Web,Success
+T00369,C0184,Water Supply,Utilities,448.65,Card,2024-03-07,Delhi,Web,Success
+T00370,C0241,BookMyShow,Entertainment,512.62,Card,2024-02-22,Delhi,Web,Success
+T00371,C0289,BookMyShow,Entertainment,546.93,UPI,2024-02-07,Bangalore,Web,Success
+T00372,C0297,Water Supply,Utilities,1151.42,Wallet,2024-04-16,Delhi,Mobile,Success
+T00373,C0118,Myntra,Shopping,261.39,Card,2024-05-25,Mumbai,Web,Success
+T00374,C0173,Water Supply,Utilities,437.47,Card,2024-05-05,Pune,Web,Success
+T00375,C0181,BookMyShow,Entertainment,1945.6,UPI,2024-02-05,Pune,Web,Success
+T00376,C0269,Amazon,Shopping,149.45,UPI,2024-01-20,Pune,Mobile,Success
+T00377,C0071,McDonalds,Food,840.46,Wallet,2024-02-29,Bangalore,Mobile,Success
+T00378,C0259,Zomato,Food,169.98,Card,2024-04-05,Bangalore,Web,Success
+T00379,C0004,BookMyShow,Entertainment,824.22,Wallet,2024-05-21,Hyderabad,Mobile,Success
+T00380,C0275,Dominos,Food,1844.64,Card,2024-01-05,Chennai,Web,Success
+T00381,C0050,Amazon,Shopping,181.59,Wallet,2024-02-08,Mumbai,Mobile,Success
+T00382,C0130,Water Supply,Utilities,278.54,Card,2024-03-09,Hyderabad,Mobile,Success
+T00383,C0236,MakeMyTrip,Travel,77.29,Wallet,2024-03-03,Pune,Mobile,Success
+T00384,C0017,Uber,Travel,1199.93,UPI,2024-04-13,Hyderabad,Web,Success
+T00385,C0029,Gas Agency,Utilities,384.94,Wallet,2024-01-03,Pune,Mobile,Success
+T00386,C0223,McDonalds,Food,143.8,Wallet,2024-03-25,Chennai,Mobile,Success
+T00387,C0118,Electricity Board,Utilities,159.1,UPI,2024-06-26,Chennai,Web,Success
+T00388,C0039,Uber,Travel,1326.8,Wallet,2024-03-12,Chennai,Mobile,Success
+T00389,C0009,Myntra,Shopping,258.31,UPI,2024-05-30,Mumbai,Web,Success
+T00390,C0084,Dominos,Food,1068.48,Wallet,2024-03-02,Chennai,Web,Success
+T00391,C0197,Gas Agency,Utilities,997.2,Wallet,2024-02-05,Pune,Mobile,Success
+T00392,C0178,Water Supply,Utilities,282.07,UPI,2024-01-26,Hyderabad,Mobile,Success
+T00393,C0204,Dominos,Food,210.32,Card,2024-01-08,Pune,Web,Success
+T00394,C0117,Netflix,Entertainment,750.49,Card,2024-05-21,Hyderabad,Web,Success
+T00395,C0044,Ajio,Shopping,545.93,Wallet,2024-03-16,Mumbai,Mobile,Failed
+T00396,C0079,Dominos,Food,183.18,Card,2024-06-11,Mumbai,Web,Success
+T00397,C0055,IRCTC,Travel,614.0,UPI,2024-01-02,Delhi,Web,Success
+T00398,C0053,IRCTC,Travel,64.62,UPI,2024-01-23,Mumbai,Web,Success
+T00399,C0285,Spotify,Entertainment,2201.99,Wallet,2024-04-14,Bangalore,Mobile,Success
+T00400,C0284,Dominos,Food,1004.3,UPI,2024-06-01,Chennai,Web,Success
+T00401,C0150,BookMyShow,Entertainment,1032.72,Card,2024-04-09,Bangalore,Mobile,Success
+T00402,C0087,Water Supply,Utilities,736.96,Wallet,2024-04-07,Mumbai,Mobile,Success
+T00403,C0138,IRCTC,Travel,491.5,Card,2024-02-07,Bangalore,Mobile,Success
+T00404,C0216,Netflix,Entertainment,2228.94,Card,2024-05-03,Bangalore,Web,Success
+T00405,C0254,Ola,Travel,529.49,Wallet,2024-06-06,Mumbai,Web,Success
+T00406,C0156,Zomato,Food,3401.34,UPI,2024-04-11,Delhi,Web,Success
+T00407,C0172,MakeMyTrip,Travel,156.52,Card,2024-06-15,Chennai,Mobile,Success
+T00408,C0103,IRCTC,Travel,1681.54,Card,2024-03-21,Mumbai,Web,Success
+T00409,C0252,IRCTC,Travel,765.77,Wallet,2024-03-03,Delhi,Web,Success
+T00410,C0187,MakeMyTrip,Travel,95.05,UPI,2024-05-24,Mumbai,Mobile,Success
+T00411,C0237,Electricity Board,Utilities,1349.05,Wallet,2024-02-23,Hyderabad,Web,Success
+T00412,C0256,McDonalds,Food,374.57,UPI,2024-06-11,Delhi,Mobile,Success
+T00413,C0217,Ola,Travel,666.71,Card,2024-01-19,Hyderabad,Web,Success
+T00414,C0274,Gas Agency,Utilities,390.14,Wallet,2024-06-26,Hyderabad,Mobile,Success
+T00415,C0056,Uber,Travel,1120.01,UPI,2024-06-17,Pune,Web,Success
+T00416,C0289,Amazon,Shopping,253.51,Wallet,2024-06-22,Pune,Web,Success
+T00417,C0055,MakeMyTrip,Travel,171.46,UPI,2024-01-26,Delhi,Mobile,Success
+T00418,C0266,Water Supply,Utilities,601.91,Wallet,2024-05-28,Pune,Mobile,Success
+T00419,C0201,Netflix,Entertainment,2020.63,Card,2024-06-22,Chennai,Mobile,Success
+T00420,C0248,Uber,Travel,745.12,UPI,2024-03-16,Hyderabad,Mobile,Success
+T00421,C0179,Zomato,Food,60.54,Card,2024-03-28,Hyderabad,Mobile,Success
+T00422,C0179,Gas Agency,Utilities,206.85,Card,2024-01-25,Hyderabad,Web,Failed
+T00423,C0154,Uber,Travel,178.76,UPI,2024-01-30,Bangalore,Web,Success
+T00424,C0125,Zomato,Food,121.37,Wallet,2024-02-14,Chennai,Mobile,Failed
+T00425,C0237,MakeMyTrip,Travel,608.04,UPI,2024-04-13,Pune,Mobile,Success
+T00426,C0203,Ajio,Shopping,105.55,UPI,2024-06-06,Mumbai,Web,Success
+T00427,C0200,Gas Agency,Utilities,238.48,UPI,2024-06-29,Mumbai,Mobile,Success
+T00428,C0296,Uber,Travel,233.67,UPI,2024-05-17,Mumbai,Web,Success
+T00429,C0235,Ola,Travel,79.79,UPI,2024-03-08,Pune,Web,Success
+T00430,C0161,Water Supply,Utilities,715.64,Wallet,2024-04-09,Chennai,Web,Success
+T00431,C0179,Electricity Board,Utilities,1245.2,Card,2024-04-27,Chennai,Mobile,Success
+T00432,C0069,Uber,Travel,644.53,Card,2024-01-31,Mumbai,Web,Success
+T00433,C0192,Zomato,Food,459.68,Wallet,2024-02-06,Chennai,Web,Success
+T00434,C0071,Spotify,Entertainment,184.96,Wallet,2024-04-08,Hyderabad,Mobile,Success
+T00435,C0276,Spotify,Entertainment,1633.16,Wallet,2024-06-14,Mumbai,Mobile,Failed
+T00436,C0072,Netflix,Entertainment,423.84,UPI,2024-03-21,Hyderabad,Mobile,Success
+T00437,C0249,Uber,Travel,876.26,UPI,2024-02-19,Hyderabad,Web,Success
+T00438,C0252,Spotify,Entertainment,70.57,Card,2024-04-23,Hyderabad,Mobile,Success
+T00439,C0113,Swiggy,Food,1056.95,Card,2024-01-09,Delhi,Mobile,Success
+T00440,C0087,Gas Agency,Utilities,71.98,Card,2024-05-24,Pune,Web,Success
+T00441,C0058,Water Supply,Utilities,260.21,Wallet,2024-01-30,Delhi,Web,Success
+T00442,C0226,Electricity Board,Utilities,65.93,Wallet,2024-02-25,Hyderabad,Mobile,Success
+T00443,C0017,Myntra,Shopping,1337.21,Card,2024-03-08,Delhi,Mobile,Success
+T00444,C0122,BookMyShow,Entertainment,896.16,UPI,2024-05-30,Pune,Web,Success
+T00445,C0220,Water Supply,Utilities,133.79,UPI,2024-06-06,Mumbai,Mobile,Success
+T00446,C0292,Amazon,Shopping,1074.88,Card,2024-05-16,Delhi,Mobile,Success
+T00447,C0149,IRCTC,Travel,1468.6,Wallet,2024-03-09,Chennai,Mobile,Success
+T00448,C0031,Ajio,Shopping,932.3,Card,2024-06-16,Mumbai,Mobile,Success
+T00449,C0165,Flipkart,Shopping,327.55,UPI,2024-06-22,Hyderabad,Web,Success
+T00450,C0213,Myntra,Shopping,60.47,Card,2024-04-25,Bangalore,Mobile,Success
+T00451,C0143,Spotify,Entertainment,236.44,Wallet,2024-04-04,Hyderabad,Web,Success
+T00452,C0048,Uber,Travel,210.16,Wallet,2024-04-27,Pune,Web,Success
+T00453,C0112,McDonalds,Food,487.75,Card,2024-02-24,Hyderabad,Web,Success
+T00454,C0173,IRCTC,Travel,1410.56,Wallet,2024-05-27,Mumbai,Web,Success
+T00455,C0024,Uber,Travel,290.26,UPI,2024-06-09,Hyderabad,Mobile,Success
+T00456,C0226,Zomato,Food,763.85,Card,2024-01-01,Hyderabad,Mobile,Success
+T00457,C0082,Myntra,Shopping,832.85,Card,2024-01-24,Pune,Web,Success
+T00458,C0191,Uber,Travel,692.45,Wallet,2024-06-15,Mumbai,Mobile,Success
+T00459,C0157,Spotify,Entertainment,329.04,Wallet,2024-06-28,Mumbai,Web,Failed
+T00460,C0001,Swiggy,Food,1203.8,UPI,2024-05-02,Bangalore,Mobile,Success
+T00461,C0266,Electricity Board,Utilities,1672.8,Wallet,2024-04-23,Bangalore,Mobile,Success
+T00462,C0217,Uber,Travel,1849.63,Wallet,2024-02-03,Hyderabad,Mobile,Success
+T00463,C0046,Ajio,Shopping,493.01,Wallet,2024-01-27,Bangalore,Web,Success
+T00464,C0071,IRCTC,Travel,300.32,Card,2024-02-04,Pune,Mobile,Success
+T00465,C0085,Swiggy,Food,852.96,Card,2024-03-30,Pune,Mobile,Success
+T00466,C0227,Ajio,Shopping,170.06,UPI,2024-01-23,Bangalore,Mobile,Success
+T00467,C0180,McDonalds,Food,3378.5,Card,2024-03-21,Mumbai,Mobile,Success
+T00468,C0128,Uber,Travel,200.68,Wallet,2024-06-02,Chennai,Web,Success
+T00469,C0106,Dominos,Food,64.85,Wallet,2024-06-04,Chennai,Mobile,Success
+T00470,C0028,Netflix,Entertainment,150.22,UPI,2024-05-06,Hyderabad,Mobile,Success
+T00471,C0037,Ajio,Shopping,306.23,Wallet,2024-01-04,Delhi,Web,Success
+T00472,C0292,Ajio,Shopping,893.11,Card,2024-04-03,Chennai,Mobile,Success
+T00473,C0009,BookMyShow,Entertainment,234.96,Wallet,2024-01-18,Bangalore,Web,Success
+T00474,C0031,Amazon,Shopping,167.77,Card,2024-05-09,Delhi,Web,Success
+T00475,C0206,Spotify,Entertainment,1706.48,UPI,2024-06-12,Chennai,Mobile,Success
+T00476,C0159,Uber,Travel,784.07,UPI,2024-05-10,Mumbai,Mobile,Success
+T00477,C0201,Gas Agency,Utilities,204.26,Wallet,2024-06-11,Pune,Mobile,Success
+T00478,C0123,MakeMyTrip,Travel,484.09,UPI,2024-03-03,Bangalore,Web,Success
+T00479,C0029,McDonalds,Food,635.37,Card,2024-06-19,Pune,Mobile,Success
+T00480,C0071,Swiggy,Food,195.49,Wallet,2024-01-03,Mumbai,Web,Success
+T00481,C0086,IRCTC,Travel,119.14,Card,2024-02-02,Pune,Web,Success
+T00482,C0172,Swiggy,Food,275.2,Card,2024-03-10,Chennai,Mobile,Success
+T00483,C0255,Uber,Travel,322.52,Card,2024-05-10,Delhi,Mobile,Success
+T00484,C0086,Spotify,Entertainment,1065.65,Card,2024-02-10,Delhi,Mobile,Success
+T00485,C0060,Water Supply,Utilities,718.51,UPI,2024-05-10,Bangalore,Mobile,Success
+T00486,C0024,Zomato,Food,921.73,Card,2024-04-03,Hyderabad,Mobile,Success
+T00487,C0284,Amazon,Shopping,1105.12,Wallet,2024-06-16,Hyderabad,Mobile,Success
+T00488,C0214,Ola,Travel,75.34,Wallet,2024-03-22,Delhi,Mobile,Success
+T00489,C0062,Gas Agency,Utilities,773.25,Wallet,2024-06-21,Bangalore,Mobile,Success
+T00490,C0206,Amazon,Shopping,598.72,UPI,2024-04-29,Delhi,Web,Success
+T00491,C0284,Uber,Travel,375.47,Card,2024-01-03,Delhi,Mobile,Success
+T00492,C0125,IRCTC,Travel,140.18,Card,2024-04-04,Chennai,Web,Success
+T00493,C0078,Flipkart,Shopping,1092.12,UPI,2024-04-14,Bangalore,Mobile,Success
+T00494,C0005,Gas Agency,Utilities,982.83,Card,2024-01-01,Pune,Web,Success
+T00495,C0106,Uber,Travel,276.32,Wallet,2024-03-01,Hyderabad,Web,Success
+T00496,C0144,Zomato,Food,1335.22,UPI,2024-01-12,Mumbai,Web,Success
+T00497,C0044,MakeMyTrip,Travel,304.12,Wallet,2024-01-25,Chennai,Mobile,Success
+T00498,C0291,BookMyShow,Entertainment,408.25,UPI,2024-04-21,Pune,Mobile,Success
+T00499,C0134,Myntra,Shopping,2044.16,Card,2024-04-10,Pune,Web,Success
+T00500,C0140,MakeMyTrip,Travel,2450.39,UPI,2024-01-20,Mumbai,Mobile,Success
+T00501,C0080,Electricity Board,Utilities,213.78,UPI,2024-02-12,Hyderabad,Web,Success
+T00502,C0062,MakeMyTrip,Travel,1700.51,Wallet,2024-04-01,Mumbai,Web,Success
+T00503,C0136,MakeMyTrip,Travel,1364.24,UPI,2024-01-24,Mumbai,Web,Success
+T00504,C0111,Electricity Board,Utilities,992.84,Card,2024-02-07,Bangalore,Mobile,Success
+T00505,C0263,MakeMyTrip,Travel,279.79,UPI,2024-06-22,Delhi,Web,Success
+T00506,C0208,Amazon,Shopping,250.01,Card,2024-05-22,Pune,Mobile,Failed
+T00507,C0053,McDonalds,Food,2356.77,UPI,2024-02-01,Bangalore,Mobile,Success
+T00508,C0102,Flipkart,Shopping,1028.19,Card,2024-04-05,Pune,Mobile,Success
+T00509,C0133,Water Supply,Utilities,209.32,UPI,2024-01-06,Bangalore,Mobile,Success
+T00510,C0048,BookMyShow,Entertainment,2026.69,Card,2024-02-01,Bangalore,Web,Success
+T00511,C0294,Zomato,Food,1006.33,Card,2024-04-11,Hyderabad,Mobile,Success
+T00512,C0219,Spotify,Entertainment,2115.8,UPI,2024-03-31,Mumbai,Mobile,Failed
+T00513,C0229,IRCTC,Travel,2359.74,UPI,2024-01-09,Chennai,Mobile,Success
+T00514,C0211,MakeMyTrip,Travel,1634.65,Wallet,2024-05-02,Bangalore,Mobile,Success
+T00515,C0071,MakeMyTrip,Travel,357.47,Card,2024-02-21,Pune,Mobile,Success
+T00516,C0196,Electricity Board,Utilities,80.17,Wallet,2024-04-01,Hyderabad,Web,Success
+T00517,C0199,IRCTC,Travel,259.1,Card,2024-02-16,Bangalore,Web,Success
+T00518,C0016,Electricity Board,Utilities,114.06,Card,2024-01-15,Hyderabad,Web,Success
+T00519,C0082,Electricity Board,Utilities,382.26,UPI,2024-03-04,Pune,Mobile,Success
+T00520,C0113,Uber,Travel,104.07,Wallet,2024-04-09,Delhi,Mobile,Success
+T00521,C0163,Flipkart,Shopping,670.34,Wallet,2024-06-27,Delhi,Mobile,Success
+T00522,C0289,Ola,Travel,357.06,UPI,2024-05-06,Chennai,Web,Success
+T00523,C0020,Ajio,Shopping,1787.09,UPI,2024-01-15,Mumbai,Mobile,Success
+T00524,C0001,McDonalds,Food,262.17,Card,2024-06-06,Mumbai,Mobile,Success
+T00525,C0166,Ola,Travel,1682.79,UPI,2024-01-06,Mumbai,Mobile,Success
+T00526,C0038,Dominos,Food,1711.65,Card,2024-06-29,Pune,Web,Success
+T00527,C0173,Electricity Board,Utilities,2288.39,Card,2024-03-23,Mumbai,Mobile,Success
+T00528,C0250,Spotify,Entertainment,4995.76,Wallet,2024-03-22,Mumbai,Web,Success
+T00529,C0194,Flipkart,Shopping,1216.02,Card,2024-06-25,Delhi,Mobile,Success
+T00530,C0294,Amazon,Shopping,572.95,Card,2024-05-25,Bangalore,Mobile,Success
+T00531,C0114,Gas Agency,Utilities,1705.13,Wallet,2024-05-24,Bangalore,Web,Failed
+T00532,C0040,Myntra,Shopping,1219.76,UPI,2024-03-29,Delhi,Mobile,Success
+T00533,C0229,Dominos,Food,487.66,UPI,2024-03-08,Mumbai,Mobile,Success
+T00534,C0132,Dominos,Food,268.26,UPI,2024-01-01,Bangalore,Web,Success
+T00535,C0215,Spotify,Entertainment,400.34,UPI,2024-04-15,Hyderabad,Web,Success
+T00536,C0052,MakeMyTrip,Travel,331.13,Card,2024-05-27,Pune,Mobile,Success
+T00537,C0038,Ajio,Shopping,84.4,UPI,2024-03-16,Bangalore,Web,Success
+T00538,C0038,Uber,Travel,3569.98,Card,2024-02-13,Hyderabad,Mobile,Success
+T00539,C0174,Swiggy,Food,438.03,Wallet,2024-06-06,Hyderabad,Mobile,Success
+T00540,C0085,Spotify,Entertainment,246.98,Wallet,2024-04-21,Mumbai,Mobile,Failed
+T00541,C0106,Dominos,Food,1284.71,UPI,2024-04-14,Pune,Web,Success
+T00542,C0122,IRCTC,Travel,482.45,UPI,2024-01-13,Hyderabad,Web,Success
+T00543,C0185,Amazon,Shopping,2366.45,UPI,2024-04-19,Bangalore,Web,Success
+T00544,C0103,Gas Agency,Utilities,810.32,UPI,2024-01-07,Mumbai,Mobile,Success
+T00545,C0243,Uber,Travel,3833.56,UPI,2024-03-19,Hyderabad,Web,Success
+T00546,C0136,Spotify,Entertainment,2338.01,UPI,2024-06-13,Chennai,Web,Success
+T00547,C0196,Myntra,Shopping,798.66,Card,2024-02-17,Hyderabad,Mobile,Success
+T00548,C0239,MakeMyTrip,Travel,259.79,Card,2024-02-27,Delhi,Mobile,Success
+T00549,C0044,Amazon,Shopping,249.27,Wallet,2024-03-29,Chennai,Web,Success
+T00550,C0284,Electricity Board,Utilities,1259.79,UPI,2024-04-09,Chennai,Web,Success
+T00551,C0244,Water Supply,Utilities,97.67,Wallet,2024-03-01,Hyderabad,Web,Failed
+T00552,C0018,McDonalds,Food,1771.86,Wallet,2024-05-26,Chennai,Mobile,Success
+T00553,C0089,McDonalds,Food,4274.04,UPI,2024-02-24,Mumbai,Mobile,Success
+T00554,C0041,McDonalds,Food,453.67,Wallet,2024-04-21,Mumbai,Mobile,Success
+T00555,C0164,Gas Agency,Utilities,1002.64,Wallet,2024-01-18,Bangalore,Web,Success
+T00556,C0283,Gas Agency,Utilities,1403.53,Card,2024-03-11,Chennai,Web,Success
+T00557,C0058,McDonalds,Food,252.69,Card,2024-02-08,Mumbai,Mobile,Success
+T00558,C0147,Swiggy,Food,769.04,Wallet,2024-03-29,Hyderabad,Web,Success
+T00559,C0249,Spotify,Entertainment,126.76,Wallet,2024-06-04,Hyderabad,Mobile,Success
+T00560,C0207,Myntra,Shopping,296.96,UPI,2024-06-07,Chennai,Web,Success
+T00561,C0170,McDonalds,Food,1806.77,Wallet,2024-03-01,Bangalore,Web,Failed
+T00562,C0011,IRCTC,Travel,1635.14,Card,2024-03-18,Delhi,Web,Success
+T00563,C0051,Spotify,Entertainment,901.93,UPI,2024-02-04,Delhi,Web,Success
+T00564,C0214,IRCTC,Travel,122.8,Wallet,2024-06-14,Bangalore,Mobile,Success
+T00565,C0209,BookMyShow,Entertainment,423.05,Wallet,2024-05-04,Chennai,Web,Success
+T00566,C0034,Zomato,Food,1078.2,Card,2024-05-09,Hyderabad,Mobile,Success
+T00567,C0015,Water Supply,Utilities,117.62,UPI,2024-02-19,Mumbai,Mobile,Success
+T00568,C0234,Amazon,Shopping,969.74,UPI,2024-04-02,Pune,Mobile,Success
+T00569,C0238,IRCTC,Travel,1574.16,Wallet,2024-04-11,Pune,Mobile,Success
+T00570,C0191,Zomato,Food,574.04,Card,2024-06-01,Hyderabad,Mobile,Success
+T00571,C0283,Spotify,Entertainment,1442.92,Card,2024-03-29,Mumbai,Web,Success
+T00572,C0015,Dominos,Food,956.6,Card,2024-01-13,Mumbai,Mobile,Success
+T00573,C0106,Flipkart,Shopping,298.52,Card,2024-06-15,Hyderabad,Mobile,Success
+T00574,C0068,McDonalds,Food,1327.32,Wallet,2024-02-14,Chennai,Mobile,Success
+T00575,C0157,Myntra,Shopping,1570.8,Wallet,2024-06-13,Delhi,Web,Success
+T00576,C0236,Netflix,Entertainment,1035.8,Card,2024-02-25,Hyderabad,Web,Success
+T00577,C0204,Water Supply,Utilities,1006.46,Wallet,2024-01-27,Bangalore,Web,Success
+T00578,C0145,Water Supply,Utilities,821.15,Card,2024-06-24,Bangalore,Web,Success
+T00579,C0142,Dominos,Food,188.16,Wallet,2024-03-24,Delhi,Web,Success
+T00580,C0077,Ola,Travel,1693.6,Wallet,2024-03-02,Bangalore,Web,Success
+T00581,C0014,Ola,Travel,1448.12,Wallet,2024-05-07,Delhi,Web,Success
+T00582,C0199,Netflix,Entertainment,376.52,Wallet,2024-01-10,Chennai,Mobile,Success
+T00583,C0274,Ola,Travel,190.21,Wallet,2024-05-01,Pune,Web,Success
+T00584,C0088,Gas Agency,Utilities,1477.67,Wallet,2024-05-22,Mumbai,Web,Success
+T00585,C0066,McDonalds,Food,55.13,Wallet,2024-03-07,Pune,Mobile,Success
+T00586,C0114,Uber,Travel,817.62,Card,2024-02-27,Pune,Web,Failed
+T00587,C0191,Netflix,Entertainment,849.33,Card,2024-05-29,Delhi,Web,Success
+T00588,C0028,McDonalds,Food,854.11,Wallet,2024-05-29,Chennai,Mobile,Success
+T00589,C0257,BookMyShow,Entertainment,1260.74,UPI,2024-06-23,Hyderabad,Web,Success
+T00590,C0078,BookMyShow,Entertainment,1195.13,UPI,2024-02-21,Delhi,Web,Success
+T00591,C0074,Gas Agency,Utilities,2687.3,Card,2024-02-16,Bangalore,Web,Success
+T00592,C0161,Ola,Travel,851.09,Wallet,2024-01-15,Bangalore,Web,Success
+T00593,C0087,Ola,Travel,136.52,Wallet,2024-02-10,Hyderabad,Mobile,Success
+T00594,C0220,Ajio,Shopping,981.51,Card,2024-04-19,Hyderabad,Web,Success
+T00595,C0274,Swiggy,Food,336.44,UPI,2024-04-05,Bangalore,Web,Success
+T00596,C0010,Electricity Board,Utilities,105.78,Wallet,2024-01-02,Pune,Mobile,Success
+T00597,C0160,Myntra,Shopping,389.58,UPI,2024-01-27,Hyderabad,Web,Success
+T00598,C0024,Amazon,Shopping,87.46,Card,2024-03-15,Hyderabad,Web,Success
+T00599,C0069,Spotify,Entertainment,2954.16,Card,2024-05-05,Delhi,Mobile,Failed
+T00600,C0010,Ajio,Shopping,1157.92,UPI,2024-02-27,Pune,Mobile,Success
+T00601,C0259,Amazon,Shopping,1185.92,UPI,2024-02-01,Delhi,Mobile,Success
+T00602,C0131,Spotify,Entertainment,67.9,Wallet,2024-06-08,Bangalore,Mobile,Success
+T00603,C0025,Swiggy,Food,586.55,Wallet,2024-01-30,Hyderabad,Web,Success
+T00604,C0281,BookMyShow,Entertainment,969.83,Card,2024-05-01,Pune,Mobile,Success
+T00605,C0155,Amazon,Shopping,305.75,Card,2024-06-18,Bangalore,Web,Failed
+T00606,C0071,Water Supply,Utilities,494.35,Card,2024-01-27,Chennai,Mobile,Success
+T00607,C0055,Uber,Travel,192.94,Card,2024-02-20,Chennai,Mobile,Success
+T00608,C0184,Ola,Travel,996.51,Wallet,2024-04-14,Delhi,Mobile,Success
+T00609,C0107,McDonalds,Food,118.78,Wallet,2024-05-03,Delhi,Mobile,Success
+T00610,C0046,Swiggy,Food,900.24,UPI,2024-05-26,Pune,Web,Success
+T00611,C0262,Amazon,Shopping,2460.52,UPI,2024-01-26,Delhi,Mobile,Success
+T00612,C0136,Netflix,Entertainment,502.98,Card,2024-01-13,Bangalore,Mobile,Failed
+T00613,C0185,Dominos,Food,485.41,Wallet,2024-03-21,Hyderabad,Mobile,Success
+T00614,C0005,Swiggy,Food,455.46,UPI,2024-06-18,Pune,Mobile,Success
+T00615,C0225,IRCTC,Travel,3357.02,Wallet,2024-03-09,Pune,Mobile,Success
+T00616,C0094,IRCTC,Travel,1846.2,UPI,2024-04-12,Hyderabad,Web,Success
+T00617,C0245,MakeMyTrip,Travel,241.73,Card,2024-06-15,Mumbai,Mobile,Success
+T00618,C0082,Amazon,Shopping,893.68,UPI,2024-04-16,Chennai,Web,Success
+T00619,C0225,Water Supply,Utilities,1648.19,UPI,2024-06-05,Hyderabad,Web,Success
+T00620,C0067,Electricity Board,Utilities,2808.47,Card,2024-05-04,Bangalore,Web,Success
+T00621,C0033,BookMyShow,Entertainment,1673.75,Card,2024-06-16,Delhi,Mobile,Success
+T00622,C0296,Water Supply,Utilities,1228.95,Wallet,2024-05-24,Mumbai,Web,Success
+T00623,C0049,Water Supply,Utilities,1195.11,Card,2024-06-18,Pune,Mobile,Success
+T00624,C0198,Netflix,Entertainment,162.56,UPI,2024-05-22,Chennai,Mobile,Success
+T00625,C0259,Zomato,Food,2079.11,Card,2024-05-06,Mumbai,Mobile,Success
+T00626,C0124,Netflix,Entertainment,1323.82,Card,2024-03-12,Bangalore,Mobile,Success
+T00627,C0194,Water Supply,Utilities,149.82,Card,2024-03-01,Bangalore,Web,Success
+T00628,C0230,Spotify,Entertainment,975.58,UPI,2024-05-07,Hyderabad,Web,Success
+T00629,C0010,McDonalds,Food,229.04,UPI,2024-04-13,Hyderabad,Mobile,Success
+T00630,C0001,Water Supply,Utilities,103.09,UPI,2024-06-03,Chennai,Web,Success
+T00631,C0106,Water Supply,Utilities,300.67,Wallet,2024-06-20,Hyderabad,Web,Success
+T00632,C0115,Uber,Travel,347.27,Card,2024-03-25,Chennai,Web,Success
+T00633,C0059,MakeMyTrip,Travel,59.35,UPI,2024-06-17,Mumbai,Mobile,Success
+T00634,C0150,IRCTC,Travel,448.71,Wallet,2024-05-13,Delhi,Mobile,Success
+T00635,C0253,Zomato,Food,783.07,UPI,2024-04-14,Bangalore,Web,Success
+T00636,C0097,Electricity Board,Utilities,999.91,UPI,2024-04-10,Mumbai,Web,Success
+T00637,C0056,Myntra,Shopping,1260.76,Card,2024-01-12,Pune,Mobile,Success
+T00638,C0259,Netflix,Entertainment,573.92,UPI,2024-05-07,Bangalore,Mobile,Success
+T00639,C0300,Gas Agency,Utilities,271.71,Card,2024-05-10,Mumbai,Mobile,Failed
+T00640,C0199,Amazon,Shopping,172.98,Wallet,2024-06-02,Chennai,Web,Success
+T00641,C0215,Gas Agency,Utilities,820.19,Wallet,2024-06-26,Mumbai,Web,Success
+T00642,C0151,Netflix,Entertainment,706.15,Card,2024-02-04,Mumbai,Web,Success
+T00643,C0263,Water Supply,Utilities,366.17,Card,2024-06-28,Chennai,Web,Success
+T00644,C0112,Water Supply,Utilities,123.58,UPI,2024-02-23,Chennai,Web,Success
+T00645,C0092,Ola,Travel,77.01,Wallet,2024-05-18,Pune,Web,Success
+T00646,C0288,Dominos,Food,454.57,Card,2024-05-29,Chennai,Web,Success
+T00647,C0217,Gas Agency,Utilities,720.61,UPI,2024-05-13,Bangalore,Mobile,Success
+T00648,C0028,BookMyShow,Entertainment,1339.9,Wallet,2024-01-15,Mumbai,Web,Success
+T00649,C0129,Myntra,Shopping,196.64,UPI,2024-01-16,Pune,Web,Success
+T00650,C0184,Amazon,Shopping,859.43,Card,2024-01-27,Chennai,Mobile,Success
+T00651,C0122,Gas Agency,Utilities,75.68,Wallet,2024-06-27,Delhi,Mobile,Success
+T00652,C0214,Netflix,Entertainment,92.7,Wallet,2024-03-21,Chennai,Mobile,Success
+T00653,C0104,Dominos,Food,1037.71,Wallet,2024-04-23,Mumbai,Web,Success
+T00654,C0101,Water Supply,Utilities,1051.65,Wallet,2024-02-19,Delhi,Web,Success
+T00655,C0096,Amazon,Shopping,381.75,UPI,2024-05-11,Bangalore,Web,Success
+T00656,C0143,McDonalds,Food,116.81,Wallet,2024-03-08,Mumbai,Mobile,Success
+T00657,C0003,Gas Agency,Utilities,684.54,Card,2024-04-29,Pune,Mobile,Success
+T00658,C0166,Zomato,Food,531.65,Wallet,2024-01-14,Pune,Web,Success
+T00659,C0282,Spotify,Entertainment,647.92,Card,2024-01-19,Pune,Web,Success
+T00660,C0095,Electricity Board,Utilities,118.12,Wallet,2024-01-18,Chennai,Mobile,Success
+T00661,C0275,Spotify,Entertainment,277.06,Card,2024-01-24,Delhi,Mobile,Success
+T00662,C0170,Myntra,Shopping,1693.23,Card,2024-03-16,Mumbai,Web,Success
+T00663,C0005,Water Supply,Utilities,3029.28,UPI,2024-06-20,Delhi,Web,Success
+T00664,C0021,Flipkart,Shopping,210.83,Wallet,2024-03-23,Hyderabad,Mobile,Success
+T00665,C0277,Netflix,Entertainment,910.01,Wallet,2024-03-13,Bangalore,Web,Success
+T00666,C0229,Water Supply,Utilities,698.4,Card,2024-01-12,Delhi,Mobile,Success
+T00667,C0050,Uber,Travel,257.49,UPI,2024-05-17,Chennai,Mobile,Failed
+T00668,C0110,Zomato,Food,2994.51,Wallet,2024-04-18,Bangalore,Mobile,Success
+T00669,C0223,Water Supply,Utilities,228.06,Wallet,2024-01-19,Pune,Mobile,Success
+T00670,C0170,McDonalds,Food,109.95,UPI,2024-01-23,Bangalore,Mobile,Success
+T00671,C0286,Myntra,Shopping,288.38,UPI,2024-05-27,Mumbai,Web,Success
+T00672,C0231,Netflix,Entertainment,1671.62,Wallet,2024-04-13,Hyderabad,Web,Success
+T00673,C0061,McDonalds,Food,1136.03,Wallet,2024-01-02,Pune,Mobile,Success
+T00674,C0038,Electricity Board,Utilities,389.64,Card,2024-05-08,Bangalore,Web,Success
+T00675,C0145,Uber,Travel,3565.25,Card,2024-04-07,Hyderabad,Mobile,Success
+T00676,C0274,BookMyShow,Entertainment,1664.11,UPI,2024-02-04,Pune,Web,Success
+T00677,C0074,Gas Agency,Utilities,511.88,Card,2024-06-22,Pune,Web,Success
+T00678,C0064,Zomato,Food,583.47,UPI,2024-01-02,Chennai,Web,Success
+T00679,C0044,Water Supply,Utilities,1897.7,Card,2024-02-23,Pune,Web,Success
+T00680,C0263,Ajio,Shopping,309.29,UPI,2024-02-11,Mumbai,Mobile,Success
+T00681,C0100,Gas Agency,Utilities,1997.64,UPI,2024-02-16,Pune,Mobile,Success
+T00682,C0282,Gas Agency,Utilities,830.34,UPI,2024-03-15,Pune,Mobile,Success
+T00683,C0102,Uber,Travel,1106.74,Wallet,2024-05-28,Hyderabad,Web,Success
+T00684,C0121,Ola,Travel,1056.53,UPI,2024-03-13,Chennai,Mobile,Success
+T00685,C0249,Myntra,Shopping,208.45,Card,2024-03-25,Chennai,Web,Success
+T00686,C0290,Electricity Board,Utilities,2893.34,Wallet,2024-04-03,Delhi,Web,Success
+T00687,C0161,Amazon,Shopping,1591.43,UPI,2024-02-26,Pune,Web,Success
+T00688,C0069,IRCTC,Travel,277.2,Wallet,2024-03-25,Hyderabad,Web,Success
+T00689,C0157,Netflix,Entertainment,521.47,Card,2024-05-21,Bangalore,Mobile,Success
+T00690,C0144,Electricity Board,Utilities,406.07,UPI,2024-05-17,Mumbai,Web,Success
+T00691,C0010,Swiggy,Food,192.85,Wallet,2024-06-10,Bangalore,Web,Success
+T00692,C0019,Electricity Board,Utilities,2839.73,Wallet,2024-03-07,Chennai,Web,Success
+T00693,C0201,Myntra,Shopping,905.41,UPI,2024-05-30,Pune,Web,Success
+T00694,C0257,Ajio,Shopping,1237.91,Wallet,2024-01-24,Hyderabad,Web,Success
+T00695,C0123,Electricity Board,Utilities,2850.49,Wallet,2024-06-24,Mumbai,Mobile,Success
+T00696,C0092,BookMyShow,Entertainment,265.4,Wallet,2024-05-24,Pune,Mobile,Success
+T00697,C0021,Netflix,Entertainment,198.83,UPI,2024-05-04,Mumbai,Mobile,Success
+T00698,C0120,IRCTC,Travel,378.79,UPI,2024-06-20,Mumbai,Web,Success
+T00699,C0233,Netflix,Entertainment,500.94,UPI,2024-01-11,Pune,Web,Success
+T00700,C0135,Dominos,Food,818.08,Wallet,2024-05-19,Chennai,Mobile,Success
+T00701,C0194,Spotify,Entertainment,196.22,Card,2024-05-30,Pune,Mobile,Success
+T00702,C0193,Gas Agency,Utilities,79.89,UPI,2024-05-12,Hyderabad,Web,Success
+T00703,C0247,MakeMyTrip,Travel,922.05,Wallet,2024-01-02,Chennai,Mobile,Success
+T00704,C0118,BookMyShow,Entertainment,1537.19,UPI,2024-05-11,Pune,Web,Success
+T00705,C0096,Flipkart,Shopping,754.26,UPI,2024-04-02,Chennai,Mobile,Success
+T00706,C0170,Ajio,Shopping,234.38,Wallet,2024-01-30,Hyderabad,Web,Success
+T00707,C0083,BookMyShow,Entertainment,301.49,Wallet,2024-04-15,Bangalore,Mobile,Success
+T00708,C0294,Zomato,Food,656.01,Wallet,2024-02-11,Mumbai,Mobile,Success
+T00709,C0029,Electricity Board,Utilities,82.11,UPI,2024-03-07,Mumbai,Web,Success
+T00710,C0010,Water Supply,Utilities,531.47,Wallet,2024-06-18,Delhi,Mobile,Success
+T00711,C0242,Ajio,Shopping,354.02,Card,2024-02-13,Mumbai,Web,Success
+T00712,C0299,Electricity Board,Utilities,83.97,UPI,2024-06-08,Pune,Web,Success
+T00713,C0233,Myntra,Shopping,3501.8,Wallet,2024-05-31,Bangalore,Mobile,Failed
+T00714,C0068,Netflix,Entertainment,53.96,UPI,2024-01-05,Mumbai,Web,Failed
+T00715,C0091,Amazon,Shopping,865.37,Card,2024-06-06,Chennai,Mobile,Success
+T00716,C0061,Water Supply,Utilities,535.19,UPI,2024-05-03,Pune,Mobile,Success
+T00717,C0001,Water Supply,Utilities,586.87,Wallet,2024-06-15,Hyderabad,Web,Success
+T00718,C0272,Uber,Travel,170.33,Card,2024-02-28,Hyderabad,Web,Success
+T00719,C0218,Uber,Travel,344.45,UPI,2024-03-06,Hyderabad,Mobile,Success
+T00720,C0279,Dominos,Food,230.37,Card,2024-03-06,Mumbai,Mobile,Success
+T00721,C0267,Swiggy,Food,2852.9,UPI,2024-04-06,Pune,Mobile,Success
+T00722,C0186,MakeMyTrip,Travel,943.26,UPI,2024-02-09,Hyderabad,Web,Success
+T00723,C0290,MakeMyTrip,Travel,1670.83,Card,2024-06-05,Delhi,Web,Success
+T00724,C0283,Ajio,Shopping,993.75,Wallet,2024-05-03,Mumbai,Web,Success
+T00725,C0248,Water Supply,Utilities,2364.75,Card,2024-03-19,Chennai,Web,Success
+T00726,C0071,Spotify,Entertainment,600.01,Wallet,2024-01-31,Pune,Mobile,Success
+T00727,C0083,Spotify,Entertainment,1675.47,UPI,2024-02-24,Chennai,Web,Success
+T00728,C0083,Uber,Travel,74.69,Card,2024-06-11,Bangalore,Mobile,Success
+T00729,C0223,Ajio,Shopping,985.73,UPI,2024-01-17,Delhi,Mobile,Success
+T00730,C0020,Uber,Travel,244.35,Wallet,2024-04-08,Hyderabad,Web,Success
+T00731,C0090,Electricity Board,Utilities,450.52,Wallet,2024-05-06,Hyderabad,Mobile,Success
+T00732,C0100,Myntra,Shopping,140.17,UPI,2024-06-02,Chennai,Mobile,Success
+T00733,C0019,Electricity Board,Utilities,6003.38,Card,2024-03-02,Pune,Mobile,Success
+T00734,C0142,Amazon,Shopping,3073.89,Card,2024-03-31,Pune,Web,Success
+T00735,C0103,Spotify,Entertainment,1686.83,Wallet,2024-01-04,Pune,Mobile,Success
+T00736,C0287,Dominos,Food,719.64,Wallet,2024-03-30,Delhi,Web,Success
+T00737,C0233,Flipkart,Shopping,1736.38,Card,2024-05-27,Bangalore,Web,Success
+T00738,C0260,Ajio,Shopping,366.85,UPI,2024-05-23,Bangalore,Web,Success
+T00739,C0263,Uber,Travel,1369.57,Card,2024-05-17,Chennai,Web,Success
+T00740,C0289,Netflix,Entertainment,1328.85,Card,2024-03-03,Delhi,Web,Success
+T00741,C0015,Spotify,Entertainment,1412.27,Card,2024-01-30,Delhi,Mobile,Success
+T00742,C0113,Spotify,Entertainment,679.07,Wallet,2024-06-28,Mumbai,Web,Success
+T00743,C0265,Netflix,Entertainment,363.94,Wallet,2024-01-03,Pune,Web,Success
+T00744,C0048,Myntra,Shopping,453.57,Card,2024-06-21,Pune,Web,Success
+T00745,C0244,Zomato,Food,443.55,Card,2024-03-31,Mumbai,Web,Success
+T00746,C0256,Flipkart,Shopping,266.97,Wallet,2024-02-21,Mumbai,Mobile,Success
+T00747,C0118,Ola,Travel,256.26,UPI,2024-03-04,Chennai,Web,Success
+T00748,C0062,Amazon,Shopping,789.96,UPI,2024-06-22,Pune,Web,Success
+T00749,C0278,Electricity Board,Utilities,822.99,UPI,2024-05-03,Delhi,Web,Success
+T00750,C0141,Spotify,Entertainment,432.15,Card,2024-02-16,Chennai,Web,Success
+T00751,C0296,BookMyShow,Entertainment,635.65,UPI,2024-01-14,Chennai,Web,Success
+T00752,C0017,Spotify,Entertainment,70.78,Wallet,2024-03-29,Hyderabad,Mobile,Success
+T00753,C0266,BookMyShow,Entertainment,432.68,Card,2024-03-21,Pune,Mobile,Success
+T00754,C0195,Zomato,Food,744.33,Wallet,2024-01-26,Delhi,Web,Success
+T00755,C0096,Gas Agency,Utilities,799.0,Wallet,2024-03-08,Mumbai,Web,Success
+T00756,C0176,Spotify,Entertainment,1391.26,Card,2024-02-17,Hyderabad,Web,Success
+T00757,C0191,Ajio,Shopping,2540.24,Card,2024-04-12,Delhi,Web,Success
+T00758,C0295,Flipkart,Shopping,224.3,Wallet,2024-02-28,Bangalore,Web,Success
+T00759,C0196,Ajio,Shopping,884.11,UPI,2024-02-07,Pune,Mobile,Success
+T00760,C0091,BookMyShow,Entertainment,273.22,Card,2024-05-07,Mumbai,Web,Success
+T00761,C0129,Netflix,Entertainment,99.73,Wallet,2024-05-25,Bangalore,Web,Success
+T00762,C0031,Zomato,Food,396.63,UPI,2024-03-06,Hyderabad,Mobile,Success
+T00763,C0172,Spotify,Entertainment,582.23,Card,2024-04-02,Delhi,Web,Success
+T00764,C0211,Uber,Travel,318.24,UPI,2024-03-30,Pune,Mobile,Success
+T00765,C0276,Water Supply,Utilities,1349.75,UPI,2024-03-13,Delhi,Web,Success
+T00766,C0229,Gas Agency,Utilities,348.37,UPI,2024-04-07,Chennai,Web,Success
+T00767,C0075,Spotify,Entertainment,1057.45,UPI,2024-06-12,Delhi,Web,Success
+T00768,C0208,Water Supply,Utilities,476.93,UPI,2024-01-21,Mumbai,Web,Success
+T00769,C0163,Myntra,Shopping,209.88,Wallet,2024-03-15,Pune,Web,Success
+T00770,C0203,Water Supply,Utilities,210.17,Card,2024-04-23,Delhi,Web,Success
+T00771,C0095,BookMyShow,Entertainment,1037.67,UPI,2024-02-02,Pune,Mobile,Success
+T00772,C0108,Uber,Travel,720.19,UPI,2024-04-11,Bangalore,Mobile,Success
+T00773,C0281,McDonalds,Food,2685.89,UPI,2024-01-07,Hyderabad,Mobile,Success
+T00774,C0080,Dominos,Food,1361.89,UPI,2024-06-16,Hyderabad,Web,Success
+T00775,C0146,Flipkart,Shopping,85.51,Card,2024-06-09,Mumbai,Mobile,Success
+T00776,C0015,Electricity Board,Utilities,2469.36,UPI,2024-06-18,Delhi,Web,Success
+T00777,C0277,Netflix,Entertainment,1418.24,Card,2024-05-20,Hyderabad,Mobile,Success
+T00778,C0234,Electricity Board,Utilities,257.1,Wallet,2024-06-11,Chennai,Web,Success
+T00779,C0274,Water Supply,Utilities,805.3,Card,2024-03-29,Hyderabad,Mobile,Success
+T00780,C0158,McDonalds,Food,1515.37,Card,2024-04-15,Delhi,Mobile,Success
+T00781,C0001,Uber,Travel,398.85,Wallet,2024-02-04,Delhi,Web,Success
+T00782,C0005,Spotify,Entertainment,1263.22,Wallet,2024-05-05,Hyderabad,Web,Success
+T00783,C0150,McDonalds,Food,1433.54,Wallet,2024-02-29,Bangalore,Web,Success
+T00784,C0288,Ajio,Shopping,931.01,Card,2024-04-11,Mumbai,Mobile,Success
+T00785,C0113,Netflix,Entertainment,832.23,Card,2024-01-21,Hyderabad,Mobile,Success
+T00786,C0140,Water Supply,Utilities,756.69,Card,2024-06-15,Pune,Web,Success
+T00787,C0036,BookMyShow,Entertainment,1118.1,UPI,2024-02-04,Delhi,Mobile,Success
+T00788,C0232,Spotify,Entertainment,245.43,Card,2024-06-28,Chennai,Web,Success
+T00789,C0010,Myntra,Shopping,69.14,UPI,2024-01-13,Chennai,Mobile,Success
+T00790,C0145,Amazon,Shopping,797.35,Card,2024-02-02,Pune,Web,Success
+T00791,C0047,Zomato,Food,261.12,UPI,2024-01-04,Hyderabad,Mobile,Success
+T00792,C0160,MakeMyTrip,Travel,772.06,Card,2024-04-05,Hyderabad,Mobile,Success
+T00793,C0075,Uber,Travel,3574.11,UPI,2024-03-09,Hyderabad,Mobile,Success
+T00794,C0093,Gas Agency,Utilities,1000.33,UPI,2024-03-05,Hyderabad,Mobile,Success
+T00795,C0198,Zomato,Food,497.17,Card,2024-03-04,Pune,Mobile,Success
+T00796,C0049,Ajio,Shopping,993.26,Wallet,2024-06-19,Mumbai,Web,Failed
+T00797,C0160,Spotify,Entertainment,159.93,Card,2024-02-10,Pune,Mobile,Success
+T00798,C0063,Water Supply,Utilities,1080.87,Card,2024-05-03,Pune,Web,Success
+T00799,C0027,Myntra,Shopping,306.34,Wallet,2024-02-25,Bangalore,Mobile,Success
+T00800,C0008,Netflix,Entertainment,121.64,UPI,2024-03-11,Chennai,Mobile,Success
+T00801,C0005,BookMyShow,Entertainment,220.42,UPI,2024-05-28,Pune,Web,Success
+T00802,C0191,Electricity Board,Utilities,255.63,UPI,2024-03-04,Mumbai,Web,Success
+T00803,C0031,Dominos,Food,107.56,UPI,2024-04-01,Pune,Mobile,Success
+T00804,C0065,Electricity Board,Utilities,106.01,Card,2024-02-29,Delhi,Web,Success
+T00805,C0099,Spotify,Entertainment,262.96,UPI,2024-06-25,Hyderabad,Web,Success
+T00806,C0021,Myntra,Shopping,1746.74,Card,2024-06-29,Hyderabad,Web,Success
+T00807,C0251,Water Supply,Utilities,659.07,UPI,2024-05-25,Mumbai,Web,Success
+T00808,C0141,MakeMyTrip,Travel,373.97,Wallet,2024-05-21,Mumbai,Mobile,Success
+T00809,C0231,Electricity Board,Utilities,4161.6,Card,2024-03-08,Chennai,Web,Success
+T00810,C0260,BookMyShow,Entertainment,702.76,Card,2024-02-17,Bangalore,Web,Success
+T00811,C0165,Electricity Board,Utilities,550.7,Wallet,2024-01-17,Pune,Web,Success
+T00812,C0283,Ajio,Shopping,710.97,UPI,2024-06-05,Delhi,Web,Failed
+T00813,C0165,Spotify,Entertainment,204.19,UPI,2024-01-25,Chennai,Mobile,Success
+T00814,C0092,Zomato,Food,229.45,UPI,2024-02-21,Bangalore,Web,Success
+T00815,C0017,Amazon,Shopping,131.34,Wallet,2024-06-13,Hyderabad,Web,Success
+T00816,C0132,Water Supply,Utilities,1179.01,UPI,2024-04-03,Mumbai,Mobile,Success
+T00817,C0252,Zomato,Food,924.69,UPI,2024-04-29,Pune,Mobile,Success
+T00818,C0189,MakeMyTrip,Travel,2145.79,Wallet,2024-01-15,Chennai,Web,Success
+T00819,C0037,Electricity Board,Utilities,457.75,Card,2024-01-20,Mumbai,Mobile,Success
+T00820,C0273,Zomato,Food,3962.52,Card,2024-02-18,Mumbai,Mobile,Success
+T00821,C0092,Water Supply,Utilities,671.15,Wallet,2024-05-22,Hyderabad,Mobile,Success
+T00822,C0235,Gas Agency,Utilities,638.77,Wallet,2024-06-19,Hyderabad,Mobile,Success
+T00823,C0282,Flipkart,Shopping,124.68,Card,2024-05-09,Delhi,Mobile,Success
+T00824,C0227,Water Supply,Utilities,159.31,Card,2024-03-21,Chennai,Web,Success
+T00825,C0221,MakeMyTrip,Travel,1268.71,Wallet,2024-03-23,Chennai,Mobile,Success
+T00826,C0110,Water Supply,Utilities,79.46,Card,2024-05-20,Pune,Web,Success
+T00827,C0230,MakeMyTrip,Travel,294.26,Card,2024-01-01,Pune,Mobile,Success
+T00828,C0266,Uber,Travel,123.38,UPI,2024-03-18,Bangalore,Web,Success
+T00829,C0162,Flipkart,Shopping,695.59,UPI,2024-06-25,Delhi,Mobile,Success
+T00830,C0236,Swiggy,Food,454.65,Card,2024-02-09,Mumbai,Web,Success
+T00831,C0120,Ola,Travel,784.22,Card,2024-03-17,Bangalore,Web,Success
+T00832,C0040,Electricity Board,Utilities,2064.53,Wallet,2024-03-24,Hyderabad,Mobile,Success
+T00833,C0296,Spotify,Entertainment,3928.61,UPI,2024-06-01,Pune,Web,Success
+T00834,C0041,McDonalds,Food,237.07,UPI,2024-03-26,Delhi,Web,Success
+T00835,C0117,BookMyShow,Entertainment,148.97,Wallet,2024-06-16,Chennai,Mobile,Success
+T00836,C0157,BookMyShow,Entertainment,433.23,Wallet,2024-01-11,Delhi,Mobile,Success
+T00837,C0079,Ola,Travel,1670.31,UPI,2024-06-21,Pune,Web,Success
+T00838,C0295,Spotify,Entertainment,1298.63,Wallet,2024-01-24,Mumbai,Web,Success
+T00839,C0076,MakeMyTrip,Travel,117.51,UPI,2024-03-27,Bangalore,Web,Success
+T00840,C0026,Water Supply,Utilities,202.47,Wallet,2024-04-12,Delhi,Mobile,Success
+T00841,C0223,Spotify,Entertainment,389.84,Wallet,2024-02-03,Mumbai,Web,Failed
+T00842,C0250,Electricity Board,Utilities,869.48,Card,2024-06-15,Chennai,Mobile,Success
+T00843,C0269,Water Supply,Utilities,163.73,UPI,2024-03-03,Bangalore,Web,Success
+T00844,C0295,Netflix,Entertainment,2098.64,UPI,2024-01-29,Pune,Web,Success
+T00845,C0179,Netflix,Entertainment,795.64,UPI,2024-03-23,Delhi,Mobile,Success
+T00846,C0180,Ola,Travel,203.74,Wallet,2024-04-23,Chennai,Mobile,Success
+T00847,C0120,BookMyShow,Entertainment,456.88,UPI,2024-06-24,Delhi,Mobile,Success
+T00848,C0028,Swiggy,Food,416.5,UPI,2024-06-07,Mumbai,Web,Success
+T00849,C0057,Dominos,Food,70.92,Card,2024-04-25,Hyderabad,Mobile,Success
+T00850,C0276,Ola,Travel,2689.96,UPI,2024-02-22,Chennai,Web,Success
+T00851,C0073,Gas Agency,Utilities,2750.94,Wallet,2024-06-27,Pune,Mobile,Success
+T00852,C0270,Spotify,Entertainment,348.96,UPI,2024-03-06,Mumbai,Mobile,Success
+T00853,C0139,Ola,Travel,513.16,UPI,2024-04-29,Pune,Mobile,Success
+T00854,C0139,McDonalds,Food,869.16,Wallet,2024-06-17,Delhi,Mobile,Success
+T00855,C0198,Dominos,Food,823.2,UPI,2024-04-07,Chennai,Mobile,Success
+T00856,C0273,MakeMyTrip,Travel,181.92,UPI,2024-02-17,Mumbai,Web,Success
+T00857,C0012,Water Supply,Utilities,1264.08,UPI,2024-03-04,Chennai,Web,Success
+T00858,C0202,MakeMyTrip,Travel,97.94,Wallet,2024-02-10,Bangalore,Web,Failed
+T00859,C0155,IRCTC,Travel,97.61,UPI,2024-05-08,Delhi,Mobile,Success
+T00860,C0016,MakeMyTrip,Travel,3342.24,Wallet,2024-03-12,Mumbai,Mobile,Success
+T00861,C0071,MakeMyTrip,Travel,172.75,UPI,2024-04-07,Chennai,Mobile,Success
+T00862,C0294,BookMyShow,Entertainment,339.09,UPI,2024-04-19,Delhi,Web,Success
+T00863,C0068,Spotify,Entertainment,992.54,UPI,2024-06-16,Mumbai,Mobile,Success
+T00864,C0269,Myntra,Shopping,619.74,UPI,2024-04-20,Mumbai,Mobile,Failed
+T00865,C0286,Uber,Travel,1395.48,Wallet,2024-01-31,Mumbai,Web,Success
+T00866,C0164,Amazon,Shopping,342.52,Card,2024-04-15,Delhi,Web,Success
+T00867,C0097,Ola,Travel,649.0,UPI,2024-02-03,Mumbai,Mobile,Success
+T00868,C0137,Water Supply,Utilities,162.06,Wallet,2024-05-25,Chennai,Mobile,Success
+T00869,C0119,Electricity Board,Utilities,527.96,Wallet,2024-01-07,Delhi,Mobile,Success
+T00870,C0258,BookMyShow,Entertainment,416.79,Wallet,2024-04-30,Pune,Web,Success
+T00871,C0252,Ajio,Shopping,1456.06,Card,2024-02-05,Mumbai,Mobile,Success
+T00872,C0210,Amazon,Shopping,1223.33,UPI,2024-03-10,Hyderabad,Mobile,Success
+T00873,C0034,Flipkart,Shopping,480.49,UPI,2024-04-22,Chennai,Web,Success
+T00874,C0127,MakeMyTrip,Travel,65.5,Card,2024-04-13,Bangalore,Web,Success
+T00875,C0293,MakeMyTrip,Travel,1192.66,Wallet,2024-05-17,Chennai,Mobile,Success
+T00876,C0232,Electricity Board,Utilities,663.11,Card,2024-01-11,Mumbai,Web,Success
+T00877,C0265,McDonalds,Food,59.76,Wallet,2024-01-13,Mumbai,Web,Success
+T00878,C0156,Netflix,Entertainment,3029.56,Card,2024-04-28,Mumbai,Web,Success
+T00879,C0265,Uber,Travel,2616.68,UPI,2024-04-28,Pune,Web,Success
+T00880,C0093,Swiggy,Food,142.99,Wallet,2024-06-27,Chennai,Mobile,Success
+T00881,C0166,Netflix,Entertainment,534.66,Card,2024-01-07,Mumbai,Web,Success
+T00882,C0104,Water Supply,Utilities,132.59,Card,2024-01-24,Delhi,Web,Success
+T00883,C0047,Amazon,Shopping,180.06,UPI,2024-06-29,Hyderabad,Web,Success
+T00884,C0262,McDonalds,Food,1119.57,Wallet,2024-02-10,Hyderabad,Web,Success
+T00885,C0172,Zomato,Food,427.14,Wallet,2024-06-17,Mumbai,Mobile,Success
+T00886,C0027,Flipkart,Shopping,542.13,Card,2024-03-19,Delhi,Web,Success
+T00887,C0061,Ola,Travel,1831.13,UPI,2024-02-21,Bangalore,Web,Failed
+T00888,C0255,McDonalds,Food,1286.81,Card,2024-05-19,Bangalore,Web,Success
+T00889,C0244,Flipkart,Shopping,982.15,Card,2024-04-14,Hyderabad,Mobile,Success
+T00890,C0004,Water Supply,Utilities,285.14,UPI,2024-05-20,Delhi,Mobile,Success
+T00891,C0076,Zomato,Food,81.35,UPI,2024-06-16,Delhi,Mobile,Success
+T00892,C0296,Amazon,Shopping,545.14,Wallet,2024-03-17,Delhi,Mobile,Success
+T00893,C0214,Swiggy,Food,911.53,UPI,2024-02-11,Pune,Web,Success
+T00894,C0294,Water Supply,Utilities,859.95,Wallet,2024-02-15,Hyderabad,Web,Success
+T00895,C0154,Swiggy,Food,105.18,Card,2024-04-04,Hyderabad,Mobile,Success
+T00896,C0034,Spotify,Entertainment,180.17,Card,2024-04-30,Mumbai,Mobile,Success
+T00897,C0270,IRCTC,Travel,624.32,Card,2024-05-14,Mumbai,Mobile,Success
+T00898,C0056,Electricity Board,Utilities,84.05,Wallet,2024-06-10,Chennai,Mobile,Success
+T00899,C0148,Spotify,Entertainment,1057.94,Card,2024-06-04,Delhi,Web,Success
+T00900,C0182,Water Supply,Utilities,109.14,UPI,2024-06-06,Chennai,Web,Success
+T00901,C0255,Water Supply,Utilities,2558.02,Card,2024-02-16,Chennai,Mobile,Success
+T00902,C0001,Ola,Travel,398.64,UPI,2024-01-07,Hyderabad,Mobile,Success
+T00903,C0212,Ajio,Shopping,394.26,UPI,2024-03-26,Delhi,Mobile,Success
+T00904,C0145,Zomato,Food,916.28,Card,2024-01-18,Delhi,Web,Success
+T00905,C0166,Water Supply,Utilities,203.03,UPI,2024-01-30,Pune,Web,Success
+T00906,C0292,MakeMyTrip,Travel,913.76,Wallet,2024-01-08,Mumbai,Mobile,Success
+T00907,C0246,IRCTC,Travel,296.36,Card,2024-01-10,Pune,Mobile,Success
+T00908,C0236,BookMyShow,Entertainment,118.6,Wallet,2024-03-26,Hyderabad,Web,Failed
+T00909,C0290,Dominos,Food,330.15,Wallet,2024-06-22,Delhi,Mobile,Success
+T00910,C0182,Myntra,Shopping,833.95,UPI,2024-02-08,Delhi,Mobile,Success
+T00911,C0274,MakeMyTrip,Travel,234.22,UPI,2024-05-26,Chennai,Web,Success
+T00912,C0158,Amazon,Shopping,813.64,Wallet,2024-03-21,Pune,Mobile,Success
+T00913,C0045,MakeMyTrip,Travel,876.04,Card,2024-03-01,Delhi,Web,Success
+T00914,C0269,Ola,Travel,84.29,Card,2024-02-14,Bangalore,Web,Failed
+T00915,C0048,Zomato,Food,1332.42,Card,2024-05-09,Bangalore,Web,Success
+T00916,C0098,Electricity Board,Utilities,3178.43,Card,2024-05-03,Pune,Web,Success
+T00917,C0051,Ola,Travel,748.63,Wallet,2024-06-22,Mumbai,Mobile,Success
+T00918,C0199,McDonalds,Food,1386.07,Wallet,2024-05-13,Bangalore,Mobile,Success
+T00919,C0045,Uber,Travel,159.66,Card,2024-04-29,Bangalore,Mobile,Success
+T00920,C0160,Water Supply,Utilities,2155.8,UPI,2024-05-27,Delhi,Mobile,Success
+T00921,C0099,Ola,Travel,422.38,Card,2024-03-11,Chennai,Web,Success
+T00922,C0061,Spotify,Entertainment,513.01,Card,2024-02-08,Mumbai,Web,Success
+T00923,C0287,Swiggy,Food,2342.83,Wallet,2024-01-27,Mumbai,Web,Success
+T00924,C0139,Gas Agency,Utilities,153.63,UPI,2024-06-29,Delhi,Mobile,Success
+T00925,C0160,Amazon,Shopping,1793.76,Wallet,2024-03-27,Chennai,Web,Success
+T00926,C0015,Zomato,Food,319.39,Card,2024-06-21,Bangalore,Mobile,Success
+T00927,C0045,BookMyShow,Entertainment,1630.76,Card,2024-04-10,Mumbai,Web,Success
+T00928,C0160,Gas Agency,Utilities,2059.92,Card,2024-02-20,Pune,Mobile,Success
+T00929,C0068,Spotify,Entertainment,1175.33,UPI,2024-06-27,Hyderabad,Mobile,Success
+T00930,C0239,Netflix,Entertainment,1526.12,Card,2024-02-29,Mumbai,Mobile,Success
+T00931,C0187,Gas Agency,Utilities,1248.49,Card,2024-02-16,Pune,Web,Success
+T00932,C0250,MakeMyTrip,Travel,206.26,UPI,2024-01-17,Hyderabad,Mobile,Success
+T00933,C0237,MakeMyTrip,Travel,3392.34,UPI,2024-03-13,Delhi,Mobile,Success
+T00934,C0208,Electricity Board,Utilities,85.31,Wallet,2024-01-28,Delhi,Mobile,Success
+T00935,C0206,MakeMyTrip,Travel,163.0,Wallet,2024-04-15,Mumbai,Mobile,Success
+T00936,C0247,Electricity Board,Utilities,1412.06,Card,2024-01-17,Delhi,Mobile,Success
+T00937,C0223,Gas Agency,Utilities,613.94,Wallet,2024-03-28,Chennai,Mobile,Success
+T00938,C0294,Amazon,Shopping,1105.81,Card,2024-01-30,Chennai,Web,Success
+T00939,C0228,Uber,Travel,763.96,UPI,2024-03-19,Hyderabad,Mobile,Success
+T00940,C0195,Electricity Board,Utilities,332.54,Card,2024-05-06,Pune,Mobile,Success
+T00941,C0072,Zomato,Food,984.07,Wallet,2024-06-11,Bangalore,Mobile,Success
+T00942,C0273,Ajio,Shopping,859.12,Card,2024-04-09,Chennai,Web,Success
+T00943,C0163,Flipkart,Shopping,189.55,Card,2024-05-25,Pune,Web,Success
+T00944,C0177,Spotify,Entertainment,57.5,UPI,2024-05-29,Bangalore,Web,Success
+T00945,C0032,Myntra,Shopping,1087.05,Card,2024-05-20,Bangalore,Mobile,Failed
+T00946,C0057,Gas Agency,Utilities,133.56,Card,2024-01-08,Mumbai,Web,Success
+T00947,C0163,Gas Agency,Utilities,1337.83,Wallet,2024-04-07,Hyderabad,Web,Success
+T00948,C0109,Spotify,Entertainment,697.9,Wallet,2024-02-14,Hyderabad,Mobile,Success
+T00949,C0185,Ajio,Shopping,815.66,Card,2024-02-09,Delhi,Mobile,Success
+T00950,C0037,Amazon,Shopping,401.28,Wallet,2024-01-05,Mumbai,Web,Success
+T00951,C0044,BookMyShow,Entertainment,696.36,UPI,2024-06-13,Hyderabad,Web,Success
+T00952,C0093,Gas Agency,Utilities,1195.0,Card,2024-05-10,Hyderabad,Web,Success
+T00953,C0116,Netflix,Entertainment,1145.5,UPI,2024-04-18,Chennai,Mobile,Success
+T00954,C0122,Gas Agency,Utilities,2587.47,Wallet,2024-05-08,Delhi,Web,Success
+T00955,C0188,Water Supply,Utilities,366.73,UPI,2024-01-10,Chennai,Web,Success
+T00956,C0298,Uber,Travel,341.77,Card,2024-06-25,Bangalore,Mobile,Success
+T00957,C0239,Gas Agency,Utilities,4537.0,Wallet,2024-01-21,Chennai,Mobile,Success
+T00958,C0040,Ajio,Shopping,526.25,Wallet,2024-06-11,Chennai,Web,Success
+T00959,C0176,Electricity Board,Utilities,1788.62,Wallet,2024-01-03,Hyderabad,Web,Success
+T00960,C0294,Gas Agency,Utilities,447.44,Wallet,2024-03-25,Hyderabad,Web,Success
+T00961,C0086,IRCTC,Travel,1001.58,UPI,2024-06-26,Chennai,Web,Success
+T00962,C0032,Gas Agency,Utilities,823.2,Wallet,2024-05-01,Chennai,Mobile,Success
+T00963,C0150,Electricity Board,Utilities,1314.67,Wallet,2024-06-08,Bangalore,Web,Success
+T00964,C0065,BookMyShow,Entertainment,759.78,Wallet,2024-01-20,Delhi,Web,Success
+T00965,C0141,Myntra,Shopping,872.51,Card,2024-01-04,Pune,Mobile,Success
+T00966,C0078,Electricity Board,Utilities,743.97,Wallet,2024-04-24,Delhi,Mobile,Success
+T00967,C0249,Ola,Travel,707.99,UPI,2024-05-15,Bangalore,Web,Success
+T00968,C0079,Zomato,Food,952.77,Card,2024-04-15,Hyderabad,Mobile,Success
+T00969,C0086,Spotify,Entertainment,301.57,UPI,2024-05-27,Pune,Web,Success
+T00970,C0060,Dominos,Food,601.73,UPI,2024-02-12,Hyderabad,Web,Success
+T00971,C0244,Netflix,Entertainment,98.27,Wallet,2024-05-16,Mumbai,Web,Success
+T00972,C0135,Netflix,Entertainment,1279.31,UPI,2024-05-15,Hyderabad,Mobile,Success
+T00973,C0196,MakeMyTrip,Travel,1293.26,Wallet,2024-03-21,Chennai,Mobile,Success
+T00974,C0222,Dominos,Food,514.14,Wallet,2024-06-15,Delhi,Web,Success
+T00975,C0051,IRCTC,Travel,368.23,Card,2024-06-16,Chennai,Web,Success
+T00976,C0124,Spotify,Entertainment,124.22,Wallet,2024-06-21,Chennai,Mobile,Success
+T00977,C0093,Gas Agency,Utilities,779.49,Card,2024-05-20,Bangalore,Mobile,Success
+T00978,C0211,Swiggy,Food,5174.38,UPI,2024-05-14,Bangalore,Web,Success
+T00979,C0146,Ola,Travel,873.04,Card,2024-02-19,Bangalore,Mobile,Success
+T00980,C0030,Electricity Board,Utilities,858.87,Wallet,2024-06-17,Mumbai,Mobile,Success
+T00981,C0067,Swiggy,Food,150.76,Card,2024-06-17,Pune,Mobile,Success
+T00982,C0130,Zomato,Food,1515.08,Card,2024-04-29,Pune,Mobile,Success
+T00983,C0219,Netflix,Entertainment,728.67,Wallet,2024-06-19,Delhi,Web,Success
+T00984,C0142,Amazon,Shopping,213.14,UPI,2024-04-07,Hyderabad,Web,Success
+T00985,C0136,Dominos,Food,375.79,UPI,2024-04-22,Bangalore,Web,Success
+T00986,C0092,Ajio,Shopping,69.59,Wallet,2024-05-05,Bangalore,Mobile,Success
+T00987,C0112,Gas Agency,Utilities,305.14,Wallet,2024-06-13,Bangalore,Web,Success
+T00988,C0018,Uber,Travel,333.88,UPI,2024-01-19,Chennai,Web,Failed
+T00989,C0255,BookMyShow,Entertainment,290.12,UPI,2024-06-16,Pune,Mobile,Success
+T00990,C0137,McDonalds,Food,1699.16,UPI,2024-06-28,Delhi,Web,Success
+T00991,C0264,Electricity Board,Utilities,214.74,Wallet,2024-05-05,Hyderabad,Web,Success
+T00992,C0036,Spotify,Entertainment,540.27,Wallet,2024-02-27,Bangalore,Web,Success
+T00993,C0291,BookMyShow,Entertainment,164.62,Wallet,2024-04-01,Delhi,Web,Success
+T00994,C0047,BookMyShow,Entertainment,1091.38,Card,2024-05-16,Delhi,Mobile,Success
+T00995,C0104,Netflix,Entertainment,509.37,UPI,2024-05-21,Bangalore,Web,Success
+T00996,C0200,Myntra,Shopping,1210.28,UPI,2024-06-10,Pune,Web,Success
+T00997,C0225,BookMyShow,Entertainment,803.75,Wallet,2024-02-18,Mumbai,Mobile,Success
+T00998,C0123,Amazon,Shopping,1163.45,Card,2024-04-09,Bangalore,Web,Success
+T00999,C0231,Spotify,Entertainment,2560.11,UPI,2024-01-10,Delhi,Mobile,Success
+T01000,C0208,Uber,Travel,97.0,UPI,2024-02-24,Pune,Web,Success
