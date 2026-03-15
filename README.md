@@ -1,6 +1,15 @@
 # FinTech-Analytics-Dashboard-Project
 Dashboard Preview https://lookerstudio.google.com/reporting/2ea1ea1f-12ed-4d7a-b92a-6a1ac635f0cf
 
+
+Skills Demonstrated
+
+Data Visualization
+Dashboard Design
+FinTech Analytics
+Business Insight Generation
+
+Interactive Reporting
 This project presents an interactive FinTech Transaction Analytics Dashboard built using Google Looker Studio with data prepared in Google Spreadsheets.
 The dashboard analyzes digital payment transactions to monitor key business metrics, merchant performance, payment behavior, and geographic transaction distribution.
 
