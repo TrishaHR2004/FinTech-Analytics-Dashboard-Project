@@ -1,17 +1,17 @@
 # FinTech-Analytics-Dashboard-Project
-Overview
+Dashboard Preview https://lookerstudio.google.com/reporting/2ea1ea1f-12ed-4d7a-b92a-6a1ac635f0cf
 
 This project presents an interactive FinTech Transaction Analytics Dashboard built using Google Looker Studio with data prepared in Google Spreadsheets.
 The dashboard analyzes digital payment transactions to monitor key business metrics, merchant performance, payment behavior, and geographic transaction distribution.
 
 
-Tools & Technologies
+-Tools & Technologies
 
 Google Looker Studio
 Google Spreadsheets
 
 
-The dataset contains the following attributes:
+-The dataset contains the following attributes:
 
 transaction_id
 customer_id
@@ -24,7 +24,7 @@ city
 device_type
 transaction_status
 
-Steps to Build the Dashboard
+-Steps to Build the Dashboard
 
 Imported the dataset into Google Spreadsheets and validated column data types.
 Connected the dataset to Google Looker Studio.
@@ -36,7 +36,7 @@ Transaction Success Rate
 Unique Customers
 Active Merchants
 
-Built visualizations for transaction analysis:
+-Built visualizations for transaction analysis:
 
 Transaction volume trend over time
 Revenue by merchant category
@@ -45,7 +45,7 @@ Top merchants by revenue
 Transaction success vs failure rate
 Transaction distribution by city
 
-Added interactive filters for better exploration:
+-Added interactive filters for better exploration:
 
 City
 Payment Method
@@ -54,7 +54,7 @@ Device Type
 Date Range
 Designed the dashboard layout including KPIs, charts, filters, and a key insights section.
 
-Important Calculations
+-Important Calculations
 
 Total Transactions
 COUNT(transaction_id)
@@ -76,7 +76,7 @@ Active Merchants
 COUNT_DISTINCT(merchant_name)
 
 
-Dashboard Features
+-Dashboard Features
 
 KPI monitoring for transaction performance
 Time-series analysis of transaction trends
@@ -86,7 +86,7 @@ Identification of top revenue-generating merchants
 Geographic transaction visualization
 Interactive filters for deeper analysis
 
-Key Insights
+-Key Insights
 
 UPI is the most frequently used payment method.
 Shopping category generates the highest transaction revenue.
@@ -104,7 +104,6 @@ FinTech-Transaction-Dashboard
 │
 └── README.md
 
-Dashboard Preview
-https://lookerstudio.google.com/reporting/2ea1ea1f-12ed-4d7a-b92a-6a1ac635f0cf
+
 
 
